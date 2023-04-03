@@ -156,7 +156,7 @@
 [submodule "taxizedb"]
 	path = taxizedb
 	url = https://github.com/ropensci/taxizedb
-	branch = *release
+	branch = v0.3.1
 [submodule "tidypolars"]
 	path = tidypolars
 	url = https://github.com/etiennebacher/tidypolars
@@ -172,7 +172,7 @@
 [submodule "webseq"]
 	path = webseq
 	url = https://github.com/stitam/webseq
-	branch = *release
+	branch = v0.1.0
 [submodule "zstdlite"]
 	path = zstdlite
 	url = https://github.com/coolbutuseless/zstdlite
