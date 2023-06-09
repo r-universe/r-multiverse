@@ -172,7 +172,7 @@
 [submodule "webchem"]
 	path = webchem
 	url = https://github.com/ropensci/webchem
-	branch = *release
+	branch = v1.3.0
 [submodule "webseq"]
 	path = webseq
 	url = https://github.com/stitam/webseq
