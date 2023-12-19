@@ -5,7 +5,7 @@
 [submodule "IMD"]
 	path = IMD
 	url = https://github.com/humaniverse/IMD
-	branch = *release
+	branch = v1.2.1
 [submodule "INLA"]
 	path = INLA
 	url = https://github.com/inbo/INLA
@@ -37,7 +37,7 @@
 [submodule "asylum"]
 	path = asylum
 	url = https://github.com/humaniverse/asylum
-	branch = *release
+	branch = v1.1.2
 [submodule "audio.vadwebrtc"]
 	path = audio.vadwebrtc
 	url = https://github.com/bnosac/audio.vadwebrtc
