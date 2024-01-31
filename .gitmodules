@@ -13,7 +13,7 @@
 [submodule "Rvision"]
 	path = Rvision
 	url = https://github.com/swarm-lab/Rvision
-	branch = *release
+	branch = v0.8.0
 [submodule "SBC"]
 	path = SBC
 	url = https://github.com/hyunjimoon/SBC
