@@ -1,0 +1,8 @@
+[
+  {
+    "package": "audio.vadwebrtc",
+    "url": "https://github.com/bnosac/audio.vadwebrtc",
+    "via": ["audio.whisper"],
+    "from": "audio.whisper"
+  }
+]

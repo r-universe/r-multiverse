@@ -5,88 +5,92 @@
 [submodule "INLA"]
 	path = INLA
 	url = https://github.com/inbo/INLA
-	branch = *release
+	branch = v19.09.03
 [submodule "SBC"]
 	path = SBC
 	url = https://github.com/hyunjimoon/SBC
-	branch = *release
+	branch = v0.3.0
+[submodule "audio.vadwebrtc"]
+	path = audio.vadwebrtc
+	url = https://github.com/bnosac/audio.vadwebrtc
+	registered = false
 [submodule "audio.whisper"]
 	path = audio.whisper
 	url = https://github.com/bnosac/audio.whisper
-	branch = *release
+	branch = 0.4.1
 [submodule "cmdstanr"]
 	path = cmdstanr
 	url = https://github.com/stan-dev/cmdstanr
-	branch = *release
+	branch = v0.8.1
 [submodule "crew"]
 	path = crew
 	url = https://github.com/wlandau/crew
-	branch = *release
+	branch = 0.9.4
 [submodule "duckdb"]
 	path = duckdb
 	url = https://github.com/duckdb/duckdb-r
-	branch = *release
+	branch = v1.0.0
 [submodule "httpgd"]
 	path = httpgd
 	url = https://github.com/nx10/httpgd
-	branch = *release
+	branch = v2.0.2
 [submodule "ichimoku"]
 	path = ichimoku
 	url = https://github.com/shikokuchuo/ichimoku
-	branch = *release
+	branch = v1.5.2
 [submodule "igraph"]
 	path = igraph
 	url = https://github.com/igraph/rigraph
-	branch = *release
+	branch = v2.0.2
 [submodule "later"]
 	path = later
 	url = https://github.com/r-lib/later
-	branch = *release
+	branch = v1.3.2
 [submodule "mirai"]
 	path = mirai
 	url = https://github.com/shikokuchuo/mirai
-	branch = *release
+	branch = v1.1.0
 [submodule "multitools"]
 	path = multitools
 	url = https://github.com/r-multiverse/multitools
-	branch = *release
+	branch = 0.1.1
 [submodule "multiverse.internals"]
 	path = multiverse.internals
 	url = https://github.com/r-multiverse/multiverse.internals
-	branch = *release
+	branch = 0.2.3
 [submodule "nanonext"]
 	path = nanonext
 	url = https://github.com/shikokuchuo/nanonext
-	branch = *release
+	branch = v1.1.0
 [submodule "polars"]
 	path = polars
 	url = https://github.com/pola-rs/r-polars
-	branch = *release
+	branch = v0.17.0
 [submodule "secretbase"]
 	path = secretbase
 	url = https://github.com/shikokuchuo/secretbase
-	branch = *release
+	branch = v1.0.0
 [submodule "stantargets"]
 	path = stantargets
 	url = https://github.com/ropensci/stantargets
-	branch = *release
+	branch = 0.1.1
 [submodule "string2path"]
 	path = string2path
 	url = https://github.com/yutannihilation/string2path
-	branch = *release
+	branch = v0.1.7
 [submodule "targetsketch"]
 	path = targetsketch
 	url = https://github.com/wlandau/targetsketch
-	branch = *release
+	branch = 0.0.1
 [submodule "tidypolars"]
 	path = tidypolars
 	url = https://github.com/etiennebacher/tidypolars
-	branch = *release
+	branch = v0.8.0
 [submodule "tidytensor"]
 	path = tidytensor
 	url = https://github.com/oneilsh/tidytensor
-	branch = *release
+	branch = v1.0.0
 [submodule "zstdlite"]
 	path = zstdlite
 	url = https://github.com/coolbutuseless/zstdlite
-	branch = *release
+	branch = v0.2.6
