@@ -90,6 +90,11 @@
 	path = tidytensor
 	url = https://github.com/oneilsh/tidytensor
 	branch = v1.0.0
+[submodule "tinytest"]
+	path = tinytest
+	url = https://github.com/markvanderloo/tinytest
+	subdir = pkg
+	registered = false
 [submodule "zstdlite"]
 	path = zstdlite
 	url = https://github.com/coolbutuseless/zstdlite
