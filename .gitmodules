@@ -1,4 +1,4 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/r-multiverse/community
 	branch = HEAD
