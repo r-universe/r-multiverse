@@ -1,0 +1,90 @@
+[
+  {
+    "package": "audio.whisper",
+    "releasetag": true
+  },
+  {
+    "package": "cmdstanr",
+    "releasetag": true
+  },
+  {
+    "package": "crew",
+    "releasetag": true
+  },
+  {
+    "package": "duckdb",
+    "releasetag": true
+  },
+  {
+    "package": "httpgd",
+    "releasetag": true
+  },
+  {
+    "package": "ichimoku",
+    "releasetag": true
+  },
+  {
+    "package": "igraph",
+    "releasetag": true
+  },
+  {
+    "package": "INLA",
+    "releasetag": true
+  },
+  {
+    "package": "later",
+    "releasetag": true
+  },
+  {
+    "package": "mirai",
+    "releasetag": true
+  },
+  {
+    "package": "multitools",
+    "releasetag": true
+  },
+  {
+    "package": "multiverse.internals",
+    "releasetag": true
+  },
+  {
+    "package": "nanonext",
+    "releasetag": true
+  },
+  {
+    "package": "polars",
+    "releasetag": true
+  },
+  {
+    "package": "SBC",
+    "releasetag": true
+  },
+  {
+    "package": "secretbase",
+    "releasetag": true
+  },
+  {
+    "package": "stantargets",
+    "releasetag": true
+  },
+  {
+    "package": "string2path",
+    "releasetag": true
+  },
+  {
+    "package": "targetsketch",
+    "releasetag": true
+  },
+  {
+    "package": "tidypolars",
+    "releasetag": true
+  },
+  {
+    "package": "tidytensor",
+    "releasetag": true
+  },
+  {
+    "package": "zstdlite",
+    "releasetag": true
+  }
+]
