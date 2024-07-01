@@ -18,7 +18,7 @@
 [submodule "adbcflightsql"]
 	path = adbcflightsql
 	url = https://github.com/apache/arrow-adbc
-	branch = *release
+	branch = apache-arrow-adbc-13
 	subdir = r/adbcflightsql
 [submodule "audio.vadwebrtc"]
 	path = audio.vadwebrtc
