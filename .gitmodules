@@ -29,7 +29,7 @@
 [submodule "duckdb"]
 	path = duckdb
 	url = https://github.com/duckdb/duckdb-r
-	branch = v1.0.0
+	branch = v1.0.0-1
 [submodule "httpgd"]
 	path = httpgd
 	url = https://github.com/nx10/httpgd
