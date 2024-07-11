@@ -23,7 +23,7 @@
 [submodule "arrow"]
 	path = arrow
 	url = https://github.com/apache/arrow
-	branch = *release
+	branch = apache-arrow-17.0.0
 	subdir = r
 [submodule "audio.vadwebrtc"]
 	path = audio.vadwebrtc
