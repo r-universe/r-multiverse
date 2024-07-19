@@ -20,6 +20,10 @@
     "releasetag": true
   },
   {
+    "package": "glaredb",
+    "releasetag": true
+  },
+  {
     "package": "httpgd",
     "releasetag": true
   },

@@ -35,6 +35,10 @@
 	path = duckdb
 	url = https://github.com/duckdb/duckdb-r
 	branch = v1.0.0-1
+[submodule "glaredb"]
+	path = glaredb
+	url = https://github.com/eitsupi/r-glaredb
+	branch = *release
 [submodule "httpgd"]
 	path = httpgd
 	url = https://github.com/nx10/httpgd
