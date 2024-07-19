@@ -1,5 +1,9 @@
 [
   {
+    "package": "adbcdrivermanager",
+    "releasetag": true
+  },
+  {
     "package": "audio.whisper",
     "releasetag": true
   },

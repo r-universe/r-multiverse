@@ -10,6 +10,11 @@
 	path = SBC
 	url = https://github.com/hyunjimoon/SBC
 	branch = v0.3.0
+[submodule "adbcdrivermanager"]
+	path = adbcdrivermanager
+	url = https://github.com/apache/arrow-adbc
+	branch = *release
+	subdir = r/adbcdrivermanager
 [submodule "audio.vadwebrtc"]
 	path = audio.vadwebrtc
 	url = https://github.com/bnosac/audio.vadwebrtc
