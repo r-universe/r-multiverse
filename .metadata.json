@@ -4,6 +4,10 @@
     "releasetag": true
   },
   {
+    "package": "adbcflightsql",
+    "releasetag": true
+  },
+  {
     "package": "audio.whisper",
     "releasetag": true
   },
