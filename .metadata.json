@@ -68,6 +68,10 @@
     "releasetag": true
   },
   {
+    "package": "rJavaEnv",
+    "releasetag": true
+  },
+  {
     "package": "SBC",
     "releasetag": true
   },

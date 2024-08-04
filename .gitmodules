@@ -80,6 +80,10 @@
 	path = polars
 	url = https://github.com/pola-rs/r-polars
 	branch = v0.18.0
+[submodule "rJavaEnv"]
+	path = rJavaEnv
+	url = https://github.com/e-kotov/rJavaEnv
+	branch = *release
 [submodule "secretbase"]
 	path = secretbase
 	url = https://github.com/shikokuchuo/secretbase
