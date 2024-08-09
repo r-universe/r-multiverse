@@ -63,7 +63,7 @@
 [submodule "mirai"]
 	path = mirai
 	url = https://github.com/shikokuchuo/mirai
-	branch = v1.1.1
+	branch = v1.2.0
 [submodule "multitools"]
 	path = multitools
 	url = https://github.com/r-multiverse/multitools
