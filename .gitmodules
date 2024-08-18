@@ -75,7 +75,7 @@
 [submodule "nanonext"]
 	path = nanonext
 	url = https://github.com/shikokuchuo/nanonext
-	branch = v1.2.0
+	branch = v1.2.1
 [submodule "polars"]
 	path = polars
 	url = https://github.com/pola-rs/r-polars
