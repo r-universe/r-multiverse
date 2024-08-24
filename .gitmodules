@@ -95,7 +95,7 @@
 [submodule "string2path"]
 	path = string2path
 	url = https://github.com/yutannihilation/string2path
-	branch = v0.1.7
+	branch = v0.1.8
 [submodule "targetsketch"]
 	path = targetsketch
 	url = https://github.com/wlandau/targetsketch
