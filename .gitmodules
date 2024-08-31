@@ -43,7 +43,7 @@
 [submodule "glaredb"]
 	path = glaredb
 	url = https://github.com/eitsupi/r-glaredb
-	branch = v0.0.2
+	branch = v0.0.3
 [submodule "httpgd"]
 	path = httpgd
 	url = https://github.com/nx10/httpgd
@@ -103,7 +103,7 @@
 [submodule "tidypolars"]
 	path = tidypolars
 	url = https://github.com/etiennebacher/tidypolars
-	branch = v0.9.0
+	branch = v0.10.0
 [submodule "tidytensor"]
 	path = tidytensor
 	url = https://github.com/oneilsh/tidytensor
