@@ -20,6 +20,11 @@
 	url = https://github.com/apache/arrow-adbc
 	branch = apache-arrow-adbc-13
 	subdir = r/adbcflightsql
+[submodule "arrow"]
+	path = arrow
+	url = https://github.com/apache/arrow
+	branch = *release
+	subdir = r
 [submodule "audio.vadwebrtc"]
 	path = audio.vadwebrtc
 	url = https://github.com/bnosac/audio.vadwebrtc

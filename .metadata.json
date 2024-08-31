@@ -8,6 +8,10 @@
     "releasetag": true
   },
   {
+    "package": "arrow",
+    "releasetag": true
+  },
+  {
     "package": "audio.whisper",
     "releasetag": true
   },
