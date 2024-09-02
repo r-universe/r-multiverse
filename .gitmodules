@@ -65,6 +65,10 @@
 	path = later
 	url = https://github.com/r-lib/later
 	branch = v1.3.2
+[submodule "litedown"]
+	path = litedown
+	url = https://github.com/yihui/litedown
+	branch = *release
 [submodule "mirai"]
 	path = mirai
 	url = https://github.com/shikokuchuo/mirai

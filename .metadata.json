@@ -52,6 +52,10 @@
     "releasetag": true
   },
   {
+    "package": "litedown",
+    "releasetag": true
+  },
+  {
     "package": "mirai",
     "releasetag": true
   },
