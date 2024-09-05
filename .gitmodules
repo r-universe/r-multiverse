@@ -350,7 +350,7 @@
 [submodule "wk"]
 	path = wk
 	url = https://github.com/paleolimbot/wk
-	branch = *release
+	branch = v0.9.3
 [submodule "zstdlite"]
 	path = zstdlite
 	url = https://github.com/coolbutuseless/zstdlite
