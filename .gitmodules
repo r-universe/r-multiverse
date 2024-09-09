@@ -68,7 +68,7 @@
 [submodule "litedown"]
 	path = litedown
 	url = https://github.com/yihui/litedown
-	branch = v0.1
+	branch = v0.2
 [submodule "mirai"]
 	path = mirai
 	url = https://github.com/shikokuchuo/mirai
