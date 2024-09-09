@@ -20,6 +20,11 @@
 	url = https://github.com/apache/arrow-adbc
 	branch = apache-arrow-adbc-14
 	subdir = r/adbcflightsql
+[submodule "adbcsnowflake"]
+	path = adbcsnowflake
+	url = https://github.com/apache/arrow-adbc
+	branch = *release
+	subdir = r/adbcsnowflake
 [submodule "arrow"]
 	path = arrow
 	url = https://github.com/apache/arrow
@@ -81,6 +86,11 @@
 	path = multiverse.internals
 	url = https://github.com/r-multiverse/multiverse.internals
 	branch = 0.2.11
+[submodule "nanoarrow"]
+	path = nanoarrow
+	url = https://github.com/apache/arrow-nanoarrow
+	branch = *release
+	subdir = r
 [submodule "nanonext"]
 	path = nanonext
 	url = https://github.com/shikokuchuo/nanonext
@@ -122,6 +132,10 @@
 	url = https://github.com/markvanderloo/tinytest
 	subdir = pkg
 	registered = false
+[submodule "unigd"]
+	path = unigd
+	url = https://github.com/nx10/unigd
+	branch = *release
 [submodule "zstdlite"]
 	path = zstdlite
 	url = https://github.com/coolbutuseless/zstdlite

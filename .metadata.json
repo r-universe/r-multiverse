@@ -8,6 +8,10 @@
     "releasetag": true
   },
   {
+    "package": "adbcsnowflake",
+    "releasetag": true
+  },
+  {
     "package": "arrow",
     "releasetag": true
   },
@@ -68,6 +72,10 @@
     "releasetag": true
   },
   {
+    "package": "nanoarrow",
+    "releasetag": true
+  },
+  {
     "package": "nanonext",
     "releasetag": true
   },
@@ -105,6 +113,10 @@
   },
   {
     "package": "tidytensor",
+    "releasetag": true
+  },
+  {
+    "package": "unigd",
     "releasetag": true
   },
   {
