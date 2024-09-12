@@ -61,7 +61,7 @@
 [submodule "ichimoku"]
 	path = ichimoku
 	url = https://github.com/shikokuchuo/ichimoku
-	branch = v1.5.4
+	branch = v1.5.5
 [submodule "igraph"]
 	path = igraph
 	url = https://github.com/igraph/rigraph
