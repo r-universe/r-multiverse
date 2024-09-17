@@ -88,6 +88,10 @@
     "releasetag": true
   },
   {
+    "package": "rlang",
+    "releasetag": true
+  },
+  {
     "package": "SBC",
     "releasetag": true
   },
