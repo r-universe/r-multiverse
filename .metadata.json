@@ -16,6 +16,10 @@
     "releasetag": true
   },
   {
+    "package": "audio.vadwebrtc",
+    "releasetag": true
+  },
+  {
     "package": "audio.whisper",
     "releasetag": true
   },
@@ -81,6 +85,10 @@
   },
   {
     "package": "polars",
+    "releasetag": true
+  },
+  {
+    "package": "prqlr",
     "releasetag": true
   },
   {

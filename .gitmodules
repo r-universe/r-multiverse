@@ -33,7 +33,7 @@
 [submodule "audio.vadwebrtc"]
 	path = audio.vadwebrtc
 	url = https://github.com/bnosac/audio.vadwebrtc
-	registered = false
+	branch = *release
 [submodule "audio.whisper"]
 	path = audio.whisper
 	url = https://github.com/bnosac/audio.whisper
@@ -99,6 +99,10 @@
 	path = polars
 	url = https://github.com/pola-rs/r-polars
 	branch = v0.19.1
+[submodule "prqlr"]
+	path = prqlr
+	url = https://github.com/PRQL/prqlc-r
+	branch = *release
 [submodule "rJavaEnv"]
 	path = rJavaEnv
 	url = https://github.com/e-kotov/rJavaEnv
