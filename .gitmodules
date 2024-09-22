@@ -42,6 +42,10 @@
 	path = cmdstanr
 	url = https://github.com/stan-dev/cmdstanr
 	branch = v0.8.1
+[submodule "colorout"]
+	path = colorout
+	url = https://github.com/jalvesaq/colorout
+	branch = *release
 [submodule "crew"]
 	path = crew
 	url = https://github.com/wlandau/crew

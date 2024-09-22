@@ -28,6 +28,10 @@
     "releasetag": true
   },
   {
+    "package": "colorout",
+    "releasetag": true
+  },
+  {
     "package": "crew",
     "releasetag": true
   },
