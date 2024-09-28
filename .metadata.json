@@ -92,6 +92,10 @@
     "releasetag": true
   },
   {
+    "package": "prophet",
+    "releasetag": true
+  },
+  {
     "package": "prqlr",
     "releasetag": true
   },

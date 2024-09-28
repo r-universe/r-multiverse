@@ -103,6 +103,11 @@
 	path = polars
 	url = https://github.com/pola-rs/r-polars
 	branch = v0.19.1
+[submodule "prophet"]
+	path = prophet
+	url = https://github.com/facebook/prophet
+	branch = *release
+	subdir = R
 [submodule "prqlr"]
 	path = prqlr
 	url = https://github.com/PRQL/prqlc-r
