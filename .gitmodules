@@ -45,7 +45,7 @@
 [submodule "colorout"]
 	path = colorout
 	url = https://github.com/jalvesaq/colorout
-	branch = v1.3-1
+	branch = v1.3-2
 [submodule "crew"]
 	path = crew
 	url = https://github.com/wlandau/crew
