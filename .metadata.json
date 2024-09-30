@@ -16,6 +16,10 @@
     "releasetag": true
   },
   {
+    "package": "asylum",
+    "releasetag": true
+  },
+  {
     "package": "audio.vadwebrtc",
     "releasetag": true
   },
@@ -53,6 +57,10 @@
   },
   {
     "package": "igraph",
+    "releasetag": true
+  },
+  {
+    "package": "IMD",
     "releasetag": true
   },
   {

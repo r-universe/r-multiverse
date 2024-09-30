@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/r-multiverse/community
 	branch = HEAD
+[submodule "IMD"]
+	path = IMD
+	url = https://github.com/humaniverse/IMD
+	branch = *release
 [submodule "INLA"]
 	path = INLA
 	url = https://github.com/inbo/INLA
@@ -30,6 +34,10 @@
 	url = https://github.com/apache/arrow
 	branch = apache-arrow-17.0.0
 	subdir = r
+[submodule "asylum"]
+	path = asylum
+	url = https://github.com/humaniverse/asylum
+	branch = *release
 [submodule "audio.vadwebrtc"]
 	path = audio.vadwebrtc
 	url = https://github.com/bnosac/audio.vadwebrtc
