@@ -5,7 +5,7 @@
 [submodule "DEPAHRI"]
 	path = DEPAHRI
 	url = https://github.com/humaniverse/DEPAHRI
-	branch = *release
+	branch = 0.0.1
 [submodule "IMD"]
 	path = IMD
 	url = https://github.com/humaniverse/IMD
@@ -70,7 +70,7 @@
 [submodule "demographr"]
 	path = demographr
 	url = https://github.com/humaniverse/demographr
-	branch = *release
+	branch = 0.0.1
 [submodule "duckdb"]
 	path = duckdb
 	url = https://github.com/duckdb/duckdb-r
@@ -78,7 +78,7 @@
 [submodule "geographr"]
 	path = geographr
 	url = https://github.com/humaniverse/geographr
-	branch = *release
+	branch = 1.0.1
 [submodule "glaredb"]
 	path = glaredb
 	url = https://github.com/eitsupi/r-glaredb
@@ -86,7 +86,7 @@
 [submodule "healthyr"]
 	path = healthyr
 	url = https://github.com/humaniverse/healthyr
-	branch = *release
+	branch = 0.0.1
 [submodule "httpgd"]
 	path = httpgd
 	url = https://github.com/nx10/httpgd
@@ -110,7 +110,7 @@
 [submodule "loneliness"]
 	path = loneliness
 	url = https://github.com/humaniverse/loneliness
-	branch = *release
+	branch = 0.0.1
 [submodule "milRex"]
 	path = milRex
 	url = https://github.com/datapumpernickel/milRex
@@ -200,7 +200,7 @@
 [submodule "wildfires"]
 	path = wildfires
 	url = https://github.com/humaniverse/wildfires
-	branch = *release
+	branch = 0.9.0
 [submodule "zstdlite"]
 	path = zstdlite
 	url = https://github.com/coolbutuseless/zstdlite
