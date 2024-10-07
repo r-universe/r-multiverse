@@ -101,7 +101,7 @@
 [submodule "nanoarrow"]
 	path = nanoarrow
 	url = https://github.com/apache/arrow-nanoarrow
-	branch = apache-arrow-nanoarrow-0.5.0
+	branch = apache-arrow-nanoarrow-0.6.0
 	subdir = r
 [submodule "nanonext"]
 	path = nanonext
