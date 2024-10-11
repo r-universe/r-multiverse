@@ -57,7 +57,7 @@
 [submodule "crew"]
 	path = crew
 	url = https://github.com/wlandau/crew
-	branch = 0.9.5
+	branch = 0.10.0
 [submodule "duckdb"]
 	path = duckdb
 	url = https://github.com/duckdb/duckdb-r
