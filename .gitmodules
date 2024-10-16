@@ -32,7 +32,7 @@
 [submodule "arrow"]
 	path = arrow
 	url = https://github.com/apache/arrow
-	branch = apache-arrow-17.0.0
+	branch = apache-arrow-18.0.0
 	subdir = r
 [submodule "asylum"]
 	path = asylum
