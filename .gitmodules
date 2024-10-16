@@ -85,7 +85,7 @@
 [submodule "litedown"]
 	path = litedown
 	url = https://github.com/yihui/litedown
-	branch = v0.2
+	branch = v0.3
 [submodule "mirai"]
 	path = mirai
 	url = https://github.com/shikokuchuo/mirai
@@ -110,7 +110,7 @@
 [submodule "polars"]
 	path = polars
 	url = https://github.com/pola-rs/r-polars
-	branch = v0.19.1
+	branch = v0.20.0
 [submodule "prophet"]
 	path = prophet
 	url = https://github.com/facebook/prophet
