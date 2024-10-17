@@ -16,12 +16,5 @@
     "url": "https://github.com/stan-dev/cmdstanr",
     "via": ["stantargets"],
     "from": "stantargets"
-  },
-  {
-    "package": "tinytest",
-    "url": "https://github.com/markvanderloo/tinytest",
-    "via": ["tidypolars"],
-    "subdir": "pkg",
-    "from": "tidypolars"
   }
 ]

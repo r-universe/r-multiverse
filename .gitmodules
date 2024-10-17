@@ -147,16 +147,11 @@
 [submodule "tidypolars"]
 	path = tidypolars
 	url = https://github.com/etiennebacher/tidypolars
-	branch = v0.10.1
+	branch = v0.11.0
 [submodule "tidytensor"]
 	path = tidytensor
 	url = https://github.com/oneilsh/tidytensor
 	branch = v1.0.0
-[submodule "tinytest"]
-	path = tinytest
-	url = https://github.com/markvanderloo/tinytest
-	subdir = pkg
-	registered = false
 [submodule "unigd"]
 	path = unigd
 	url = https://github.com/nx10/unigd
