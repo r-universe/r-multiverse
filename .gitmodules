@@ -65,7 +65,7 @@
 [submodule "glaredb"]
 	path = glaredb
 	url = https://github.com/eitsupi/r-glaredb
-	branch = v0.0.3
+	branch = v0.0.4
 [submodule "httpgd"]
 	path = httpgd
 	url = https://github.com/nx10/httpgd
