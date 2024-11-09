@@ -86,6 +86,10 @@
 	path = litedown
 	url = https://github.com/yihui/litedown
 	branch = v0.4
+[submodule "milRex"]
+	path = milRex
+	url = https://github.com/datapumpernickel/milRex
+	branch = *release
 [submodule "mirai"]
 	path = mirai
 	url = https://github.com/shikokuchuo/mirai

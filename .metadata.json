@@ -76,6 +76,10 @@
     "releasetag": true
   },
   {
+    "package": "milRex",
+    "releasetag": true
+  },
+  {
     "package": "mirai",
     "releasetag": true
   },
