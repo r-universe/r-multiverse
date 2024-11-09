@@ -89,7 +89,7 @@
 [submodule "milRex"]
 	path = milRex
 	url = https://github.com/datapumpernickel/milRex
-	branch = *release
+	branch = v1.0.1
 [submodule "mirai"]
 	path = mirai
 	url = https://github.com/shikokuchuo/mirai
