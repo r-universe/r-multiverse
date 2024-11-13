@@ -1,5 +1,9 @@
 [
   {
+    "package": "adbcbigquery",
+    "releasetag": true
+  },
+  {
     "package": "adbcdrivermanager",
     "releasetag": true
   },
