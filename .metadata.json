@@ -144,6 +144,10 @@
     "releasetag": true
   },
   {
+    "package": "taxizedb",
+    "releasetag": true
+  },
+  {
     "package": "tidypolars",
     "releasetag": true
   },
@@ -153,6 +157,10 @@
   },
   {
     "package": "unigd",
+    "releasetag": true
+  },
+  {
+    "package": "webseq",
     "releasetag": true
   },
   {
