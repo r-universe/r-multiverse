@@ -54,7 +54,7 @@
 [submodule "autometric"]
 	path = autometric
 	url = https://github.com/wlandau/autometric
-	branch = *release
+	branch = 0.1.2
 [submodule "bridgestan"]
 	path = bridgestan
 	url = https://github.com/roualdes/bridgestan
@@ -75,11 +75,11 @@
 [submodule "crew.aws.batch"]
 	path = crew.aws.batch
 	url = https://github.com/wlandau/crew.aws.batch
-	branch = *release
+	branch = 0.0.8
 [submodule "crew.cluster"]
 	path = crew.cluster
 	url = https://github.com/wlandau/crew.cluster
-	branch = *release
+	branch = 0.3.4
 [submodule "demographr"]
 	path = demographr
 	url = https://github.com/humaniverse/demographr
@@ -185,11 +185,11 @@
 [submodule "tarchetypes"]
 	path = tarchetypes
 	url = https://github.com/ropensci/tarchetypes
-	branch = *release
+	branch = 0.12.0
 [submodule "targets"]
 	path = targets
 	url = https://github.com/ropensci/targets
-	branch = *release
+	branch = 1.10.1
 [submodule "targetsketch"]
 	path = targetsketch
 	url = https://github.com/wlandau/targetsketch
