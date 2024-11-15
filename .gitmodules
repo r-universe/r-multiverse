@@ -169,6 +169,10 @@
 	path = unigd
 	url = https://github.com/nx10/unigd
 	branch = v0.1.2
+[submodule "webchem"]
+	path = webchem
+	url = https://github.com/ropensci/webchem
+	branch = *release
 [submodule "webseq"]
 	path = webseq
 	url = https://github.com/stitam/webseq

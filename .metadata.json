@@ -160,6 +160,10 @@
     "releasetag": true
   },
   {
+    "package": "webchem",
+    "releasetag": true
+  },
+  {
     "package": "webseq",
     "releasetag": true
   },
