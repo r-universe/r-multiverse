@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/r-multiverse/community
 	branch = HEAD
+[submodule "DEPAHRI"]
+	path = DEPAHRI
+	url = https://github.com/humaniverse/DEPAHRI
+	branch = *release
 [submodule "IMD"]
 	path = IMD
 	url = https://github.com/humaniverse/IMD
@@ -63,14 +67,26 @@
 	path = crew
 	url = https://github.com/wlandau/crew
 	branch = 0.10.2
+[submodule "demographr"]
+	path = demographr
+	url = https://github.com/humaniverse/demographr
+	branch = *release
 [submodule "duckdb"]
 	path = duckdb
 	url = https://github.com/duckdb/duckdb-r
 	branch = v1.1.0
+[submodule "geographr"]
+	path = geographr
+	url = https://github.com/humaniverse/geographr
+	branch = *release
 [submodule "glaredb"]
 	path = glaredb
 	url = https://github.com/eitsupi/r-glaredb
 	branch = v0.0.4
+[submodule "healthyr"]
+	path = healthyr
+	url = https://github.com/humaniverse/healthyr
+	branch = *release
 [submodule "httpgd"]
 	path = httpgd
 	url = https://github.com/nx10/httpgd
@@ -91,6 +107,10 @@
 	path = litedown
 	url = https://github.com/yihui/litedown
 	branch = v0.4
+[submodule "loneliness"]
+	path = loneliness
+	url = https://github.com/humaniverse/loneliness
+	branch = *release
 [submodule "milRex"]
 	path = milRex
 	url = https://github.com/datapumpernickel/milRex
@@ -177,6 +197,10 @@
 	path = webseq
 	url = https://github.com/stitam/webseq
 	branch = v0.1.0
+[submodule "wildfires"]
+	path = wildfires
+	url = https://github.com/humaniverse/wildfires
+	branch = *release
 [submodule "zstdlite"]
 	path = zstdlite
 	url = https://github.com/coolbutuseless/zstdlite

@@ -44,11 +44,27 @@
     "releasetag": true
   },
   {
+    "package": "demographr",
+    "releasetag": true
+  },
+  {
+    "package": "DEPAHRI",
+    "releasetag": true
+  },
+  {
     "package": "duckdb",
     "releasetag": true
   },
   {
+    "package": "geographr",
+    "releasetag": true
+  },
+  {
     "package": "glaredb",
+    "releasetag": true
+  },
+  {
+    "package": "healthyr",
     "releasetag": true
   },
   {
@@ -77,6 +93,10 @@
   },
   {
     "package": "litedown",
+    "releasetag": true
+  },
+  {
+    "package": "loneliness",
     "releasetag": true
   },
   {
@@ -165,6 +185,10 @@
   },
   {
     "package": "webseq",
+    "releasetag": true
+  },
+  {
+    "package": "wildfires",
     "releasetag": true
   },
   {
