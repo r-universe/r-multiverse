@@ -95,6 +95,10 @@
 	path = igraph
 	url = https://github.com/igraph/rigraph
 	branch = v2.1.1
+[submodule "jagstargets"]
+	path = jagstargets
+	url = https://github.com/ropensci/jagstargets
+	branch = *release
 [submodule "later"]
 	path = later
 	url = https://github.com/r-lib/later
