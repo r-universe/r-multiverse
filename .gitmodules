@@ -98,7 +98,7 @@
 [submodule "jagstargets"]
 	path = jagstargets
 	url = https://github.com/ropensci/jagstargets
-	branch = *release
+	branch = 1.2.3
 [submodule "later"]
 	path = later
 	url = https://github.com/r-lib/later
