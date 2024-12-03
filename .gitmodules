@@ -164,7 +164,7 @@
 [submodule "stantargets"]
 	path = stantargets
 	url = https://github.com/ropensci/stantargets
-	branch = 0.1.1
+	branch = 0.1.2
 [submodule "string2path"]
 	path = string2path
 	url = https://github.com/yutannihilation/string2path
