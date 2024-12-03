@@ -2,10 +2,6 @@
 	path = .registry
 	url = https://github.com/r-multiverse/community
 	branch = HEAD
-[submodule "DEPAHRI"]
-	path = DEPAHRI
-	url = https://github.com/humaniverse/DEPAHRI
-	branch = 0.0.1
 [submodule "IMD"]
 	path = IMD
 	url = https://github.com/humaniverse/IMD

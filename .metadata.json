@@ -48,10 +48,6 @@
     "releasetag": true
   },
   {
-    "package": "DEPAHRI",
-    "releasetag": true
-  },
-  {
     "package": "duckdb",
     "releasetag": true
   },
