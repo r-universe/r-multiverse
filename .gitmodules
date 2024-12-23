@@ -54,7 +54,7 @@
 [submodule "audio.whisper"]
 	path = audio.whisper
 	url = https://github.com/bnosac/audio.whisper
-	branch = 0.4.1
+	branch = 0.4.2
 [submodule "autometric"]
 	path = autometric
 	url = https://github.com/wlandau/autometric
