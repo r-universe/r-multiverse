@@ -54,7 +54,7 @@
 [submodule "bridgestan"]
 	path = bridgestan
 	url = https://github.com/roualdes/bridgestan
-	branch = *release
+	branch = v2.6.1
 	subdir = R
 [submodule "cmdstanr"]
 	path = cmdstanr
