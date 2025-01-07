@@ -106,7 +106,7 @@
 [submodule "litedown"]
 	path = litedown
 	url = https://github.com/yihui/litedown
-	branch = v0.4
+	branch = v0.5
 [submodule "loneliness"]
 	path = loneliness
 	url = https://github.com/humaniverse/loneliness
