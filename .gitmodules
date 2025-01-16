@@ -160,7 +160,7 @@
 [submodule "secretbase"]
 	path = secretbase
 	url = https://github.com/shikokuchuo/secretbase
-	branch = v1.0.3
+	branch = v1.0.4
 [submodule "stantargets"]
 	path = stantargets
 	url = https://github.com/ropensci/stantargets
