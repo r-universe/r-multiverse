@@ -161,7 +161,7 @@
 [submodule "rlang"]
 	path = rlang
 	url = https://github.com/r-lib/rlang
-	branch = v1.1.4
+	branch = v1.1.5
 [submodule "secretbase"]
 	path = secretbase
 	url = https://github.com/shikokuchuo/secretbase
