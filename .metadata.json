@@ -32,6 +32,10 @@
     "releasetag": true
   },
   {
+    "package": "bridgestan",
+    "releasetag": true
+  },
+  {
     "package": "cmdstanr",
     "releasetag": true
   },
