@@ -217,7 +217,7 @@
 [submodule "riem"]
 	path = riem
 	url = https://github.com/ropensci/riem
-	branch = *release
+	branch = v1.0.0
 [submodule "rlang"]
 	path = rlang
 	url = https://github.com/r-lib/rlang
