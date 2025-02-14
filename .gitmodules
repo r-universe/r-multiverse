@@ -75,7 +75,7 @@
 [submodule "duckdb"]
 	path = duckdb
 	url = https://github.com/duckdb/duckdb-r
-	branch = v1.1.3-2
+	branch = v1.2.0
 [submodule "geographr"]
 	path = geographr
 	url = https://github.com/humaniverse/geographr
