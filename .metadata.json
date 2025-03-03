@@ -152,10 +152,6 @@
     "releasetag": true
   },
   {
-    "package": "secretbase",
-    "releasetag": true
-  },
-  {
     "package": "stantargets",
     "releasetag": true
   },
