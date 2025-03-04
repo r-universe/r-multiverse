@@ -241,7 +241,7 @@
 [submodule "secretbase"]
 	path = secretbase
 	url = https://github.com/shikokuchuo/secretbase
-	branch = *release
+	branch = v1.0.5
 [submodule "shinystan"]
 	path = shinystan
 	url = https://github.com/stan-dev/shinystan
