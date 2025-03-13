@@ -131,7 +131,7 @@
 [submodule "multiverse.internals"]
 	path = multiverse.internals
 	url = https://github.com/r-multiverse/multiverse.internals
-	branch = 0.4.10
+	branch = 1.0.0
 [submodule "nanoarrow"]
 	path = nanoarrow
 	url = https://github.com/apache/arrow-nanoarrow
