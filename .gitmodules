@@ -144,7 +144,7 @@
 [submodule "polars"]
 	path = polars
 	url = https://github.com/pola-rs/r-polars
-	branch = v0.22.1
+	branch = v0.22.2
 [submodule "prophet"]
 	path = prophet
 	url = https://github.com/facebook/prophet
