@@ -51,6 +51,10 @@
 	path = audio.whisper
 	url = https://github.com/bnosac/audio.whisper
 	branch = 0.4.1
+[submodule "autometric"]
+	path = autometric
+	url = https://github.com/wlandau/autometric
+	branch = *release
 [submodule "bridgestan"]
 	path = bridgestan
 	url = https://github.com/roualdes/bridgestan
@@ -68,6 +72,14 @@
 	path = crew
 	url = https://github.com/wlandau/crew
 	branch = 1.0.0
+[submodule "crew.aws.batch"]
+	path = crew.aws.batch
+	url = https://github.com/wlandau/crew.aws.batch
+	branch = *release
+[submodule "crew.cluster"]
+	path = crew.cluster
+	url = https://github.com/wlandau/crew.cluster
+	branch = *release
 [submodule "demographr"]
 	path = demographr
 	url = https://github.com/humaniverse/demographr
@@ -170,6 +182,14 @@
 	path = string2path
 	url = https://github.com/yutannihilation/string2path
 	branch = v0.2.0
+[submodule "tarchetypes"]
+	path = tarchetypes
+	url = https://github.com/ropensci/tarchetypes
+	branch = *release
+[submodule "targets"]
+	path = targets
+	url = https://github.com/ropensci/targets
+	branch = *release
 [submodule "targetsketch"]
 	path = targetsketch
 	url = https://github.com/wlandau/targetsketch

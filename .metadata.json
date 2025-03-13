@@ -32,6 +32,10 @@
     "releasetag": true
   },
   {
+    "package": "autometric",
+    "releasetag": true
+  },
+  {
     "package": "bridgestan",
     "releasetag": true
   },
@@ -45,6 +49,14 @@
   },
   {
     "package": "crew",
+    "releasetag": true
+  },
+  {
+    "package": "crew.aws.batch",
+    "releasetag": true
+  },
+  {
+    "package": "crew.cluster",
     "releasetag": true
   },
   {
@@ -157,6 +169,14 @@
   },
   {
     "package": "string2path",
+    "releasetag": true
+  },
+  {
+    "package": "tarchetypes",
+    "releasetag": true
+  },
+  {
+    "package": "targets",
     "releasetag": true
   },
   {
