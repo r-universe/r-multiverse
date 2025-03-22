@@ -160,6 +160,10 @@
     "releasetag": true
   },
   {
+    "package": "rwasm",
+    "releasetag": true
+  },
+  {
     "package": "SBC",
     "releasetag": true
   },
