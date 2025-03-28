@@ -165,7 +165,7 @@
 [submodule "prqlr"]
 	path = prqlr
 	url = https://github.com/PRQL/prqlc-r
-	branch = v0.10.0
+	branch = v0.10.1
 [submodule "rJavaEnv"]
 	path = rJavaEnv
 	url = https://github.com/e-kotov/rJavaEnv
