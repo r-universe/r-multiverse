@@ -10,6 +10,10 @@
 	path = INLA
 	url = https://github.com/inbo/INLA
 	branch = v19.09.03
+[submodule "Rvision"]
+	path = Rvision
+	url = https://github.com/swarm-lab/Rvision
+	branch = *release
 [submodule "SBC"]
 	path = SBC
 	url = https://github.com/hyunjimoon/SBC
