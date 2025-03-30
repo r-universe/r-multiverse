@@ -67,7 +67,7 @@
 [submodule "cmdstanr"]
 	path = cmdstanr
 	url = https://github.com/stan-dev/cmdstanr
-	branch = v0.8.1
+	branch = v0.9.0
 [submodule "colorout"]
 	path = colorout
 	url = https://github.com/jalvesaq/colorout
