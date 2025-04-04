@@ -173,7 +173,7 @@
 [submodule "rJavaEnv"]
 	path = rJavaEnv
 	url = https://github.com/e-kotov/rJavaEnv
-	branch = v0.2.2
+	branch = v0.3.0
 [submodule "rlang"]
 	path = rlang
 	url = https://github.com/r-lib/rlang
