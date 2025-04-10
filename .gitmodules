@@ -197,7 +197,7 @@
 [submodule "targets"]
 	path = targets
 	url = https://github.com/ropensci/targets
-	branch = 1.11.0
+	branch = 1.11.1
 [submodule "targetsketch"]
 	path = targetsketch
 	url = https://github.com/wlandau/targetsketch
