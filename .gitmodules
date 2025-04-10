@@ -177,7 +177,7 @@
 [submodule "rlang"]
 	path = rlang
 	url = https://github.com/r-lib/rlang
-	branch = v1.1.5
+	branch = v1.1.6
 [submodule "rwasm"]
 	path = rwasm
 	url = https://github.com/r-wasm/rwasm
