@@ -285,7 +285,7 @@
 [submodule "tidyterra"]
 	path = tidyterra
 	url = https://github.com/dieghernan/tidyterra
-	branch = *release
+	branch = v0.7.2
 [submodule "unigd"]
 	path = unigd
 	url = https://github.com/nx10/unigd
