@@ -83,7 +83,7 @@
 [submodule "crew.cluster"]
 	path = crew.cluster
 	url = https://github.com/wlandau/crew.cluster
-	branch = 0.3.6
+	branch = 0.3.7
 [submodule "demographr"]
 	path = demographr
 	url = https://github.com/humaniverse/demographr
