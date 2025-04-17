@@ -5,7 +5,7 @@
 [submodule "ExpBites"]
 	path = ExpBites
 	url = https://github.com/Nmoiroux/ExpBites
-	branch = *release
+	branch = v0.1.1-zenodo
 [submodule "IMD"]
 	path = IMD
 	url = https://github.com/humaniverse/IMD
@@ -167,7 +167,7 @@
 [submodule "multiverse.internals"]
 	path = multiverse.internals
 	url = https://github.com/r-multiverse/multiverse.internals
-	branch = 1.1.4
+	branch = 1.1.5
 [submodule "nanoarrow"]
 	path = nanoarrow
 	url = https://github.com/apache/arrow-nanoarrow
