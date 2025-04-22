@@ -17,7 +17,7 @@
 [submodule "S7"]
 	path = S7
 	url = https://github.com/RConsortium/S7
-	branch = *release
+	branch = v0.2.0
 [submodule "SBC"]
 	path = SBC
 	url = https://github.com/hyunjimoon/SBC
@@ -79,7 +79,7 @@
 [submodule "cli"]
 	path = cli
 	url = https://github.com/r-lib/cli
-	branch = *release
+	branch = v3.6.5
 [submodule "cmdstanr"]
 	path = cmdstanr
 	url = https://github.com/stan-dev/cmdstanr
@@ -313,7 +313,7 @@
 [submodule "vctrs"]
 	path = vctrs
 	url = https://github.com/r-lib/vctrs
-	branch = *release
+	branch = v0.6.5
 [submodule "weathercan"]
 	path = weathercan
 	url = https://github.com/ropensci/weathercan
