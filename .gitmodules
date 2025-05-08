@@ -193,7 +193,7 @@
 [submodule "tarchetypes"]
 	path = tarchetypes
 	url = https://github.com/ropensci/tarchetypes
-	branch = 0.13.0
+	branch = 0.13.1
 [submodule "targets"]
 	path = targets
 	url = https://github.com/ropensci/targets
