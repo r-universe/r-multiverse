@@ -111,7 +111,7 @@
 [submodule "geotargets"]
 	path = geotargets
 	url = https://github.com/ropensci/geotargets
-	branch = *release
+	branch = v0.3.1
 [submodule "ggsurveillance"]
 	path = ggsurveillance
 	url = https://github.com/biostats-dev/ggsurveillance
@@ -289,7 +289,7 @@
 [submodule "weathercan"]
 	path = weathercan
 	url = https://github.com/ropensci/weathercan
-	branch = *release
+	branch = v0.7.5
 [submodule "webchem"]
 	path = webchem
 	url = https://github.com/ropensci/webchem
