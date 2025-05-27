@@ -96,10 +96,6 @@
     "releasetag": true
   },
   {
-    "package": "INLA",
-    "releasetag": true
-  },
-  {
     "package": "jagstargets",
     "releasetag": true
   },

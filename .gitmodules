@@ -6,10 +6,6 @@
 	path = IMD
 	url = https://github.com/humaniverse/IMD
 	branch = v1.2.1
-[submodule "INLA"]
-	path = INLA
-	url = https://github.com/inbo/INLA
-	branch = v19.09.03
 [submodule "Rvision"]
 	path = Rvision
 	url = https://github.com/swarm-lab/Rvision
