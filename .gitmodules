@@ -160,7 +160,7 @@
 [submodule "prophet"]
 	path = prophet
 	url = https://github.com/facebook/prophet
-	branch = v1.1.6-patched-pypi
+	branch = v1.1.7
 	subdir = R
 [submodule "prqlr"]
 	path = prqlr
