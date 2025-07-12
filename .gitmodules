@@ -160,7 +160,7 @@
 [submodule "polars0"]
 	path = polars0
 	url = https://github.com/rpolars/r-polars0
-	branch = *release
+	branch = v1.0.0
 [submodule "prophet"]
 	path = prophet
 	url = https://github.com/facebook/prophet
