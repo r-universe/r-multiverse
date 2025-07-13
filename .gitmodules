@@ -157,6 +157,10 @@
 	path = polars
 	url = https://github.com/pola-rs/r-polars
 	branch = v0.22.4
+[submodule "polars0"]
+	path = polars0
+	url = https://github.com/rpolars/r-polars0
+	branch = *release
 [submodule "prophet"]
 	path = prophet
 	url = https://github.com/facebook/prophet

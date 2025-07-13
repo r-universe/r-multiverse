@@ -140,6 +140,10 @@
     "releasetag": true
   },
   {
+    "package": "polars0",
+    "releasetag": true
+  },
+  {
     "package": "prophet",
     "releasetag": true
   },
