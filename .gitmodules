@@ -181,7 +181,7 @@
 [submodule "rwasm"]
 	path = rwasm
 	url = https://github.com/r-wasm/rwasm
-	branch = v0.2.0
+	branch = v0.3.0
 [submodule "stantargets"]
 	path = stantargets
 	url = https://github.com/ropensci/stantargets
