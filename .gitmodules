@@ -196,7 +196,7 @@
 [submodule "posterior"]
 	path = posterior
 	url = https://github.com/stan-dev/posterior
-	branch = v1.6.0
+	branch = v1.6.1
 [submodule "posteriordb"]
 	path = posteriordb
 	url = https://github.com/stan-dev/posteriordb-r
