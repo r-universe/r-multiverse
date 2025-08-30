@@ -58,7 +58,7 @@
 [submodule "bayesplot"]
 	path = bayesplot
 	url = https://github.com/stan-dev/bayesplot
-	branch = *release
+	branch = v1.14.0
 [submodule "bridgestan"]
 	path = bridgestan
 	url = https://github.com/roualdes/bridgestan
@@ -139,7 +139,7 @@
 [submodule "loo"]
 	path = loo
 	url = https://github.com/stan-dev/loo
-	branch = *release
+	branch = v2.8.0
 [submodule "milRex"]
 	path = milRex
 	url = https://github.com/datapumpernickel/milRex
@@ -176,15 +176,15 @@
 [submodule "posterior"]
 	path = posterior
 	url = https://github.com/stan-dev/posterior
-	branch = *release
+	branch = v1.6.0
 [submodule "posteriordb"]
 	path = posteriordb
 	url = https://github.com/stan-dev/posteriordb-r
-	branch = *release
+	branch = v0.3.4
 [submodule "projpred"]
 	path = projpred
 	url = https://github.com/stan-dev/projpred
-	branch = *release
+	branch = v2.9.0
 [submodule "prophet"]
 	path = prophet
 	url = https://github.com/facebook/prophet
@@ -205,7 +205,7 @@
 [submodule "rstanarm"]
 	path = rstanarm
 	url = https://github.com/stan-dev/rstanarm
-	branch = *release
+	branch = v2.32.1
 [submodule "rwasm"]
 	path = rwasm
 	url = https://github.com/r-wasm/rwasm
@@ -213,7 +213,7 @@
 [submodule "shinystan"]
 	path = shinystan
 	url = https://github.com/stan-dev/shinystan
-	branch = *release
+	branch = v2.6.0
 [submodule "stantargets"]
 	path = stantargets
 	url = https://github.com/ropensci/stantargets
