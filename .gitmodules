@@ -171,7 +171,7 @@
 [submodule "mutagen"]
 	path = mutagen
 	url = https://github.com/gvelasq/mutagen
-	branch = *release
+	branch = v0.1.0
 [submodule "nanoarrow"]
 	path = nanoarrow
 	url = https://github.com/apache/arrow-nanoarrow
@@ -269,7 +269,7 @@
 [submodule "tidytab"]
 	path = tidytab
 	url = https://github.com/gvelasq/tidytab
-	branch = *release
+	branch = v0.0.0.9000
 [submodule "tidytensor"]
 	path = tidytensor
 	url = https://github.com/oneilsh/tidytensor
