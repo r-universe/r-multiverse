@@ -17,11 +17,11 @@
 [submodule "Rmlx"]
 	path = Rmlx
 	url = https://github.com/hughjonesd/Rmlx
-	branch = *release
+	branch = v0.4.0
 [submodule "RmlxStats"]
 	path = RmlxStats
 	url = https://github.com/hughjonesd/RmlxStats
-	branch = *release
+	branch = v0.3.0
 [submodule "Rvision"]
 	path = Rvision
 	url = https://github.com/swarm-lab/Rvision
@@ -164,7 +164,7 @@
 [submodule "ggmagnify"]
 	path = ggmagnify
 	url = https://github.com/hughjonesd/ggmagnify
-	branch = *release
+	branch = v0.4.2
 [submodule "ggsurveillance"]
 	path = ggsurveillance
 	url = https://github.com/biostats-dev/ggsurveillance
@@ -257,7 +257,7 @@
 [submodule "onetime"]
 	path = onetime
 	url = https://github.com/hughjonesd/onetime
-	branch = *release
+	branch = CRAN-0.2.0
 [submodule "polars"]
 	path = polars
 	url = https://github.com/pola-rs/r-polars
@@ -302,7 +302,7 @@
 [submodule "rcheology"]
 	path = rcheology
 	url = https://github.com/hughjonesd/rcheology
-	branch = *release
+	branch = v4.6.0.0
 [submodule "riem"]
 	path = riem
 	url = https://github.com/ropensci/riem
@@ -391,7 +391,7 @@
 [submodule "truelies"]
 	path = truelies
 	url = https://github.com/hughjonesd/truelies
-	branch = *release
+	branch = v0.2.1
 [submodule "unigd"]
 	path = unigd
 	url = https://github.com/nx10/unigd
