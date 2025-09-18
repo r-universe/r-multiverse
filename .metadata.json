@@ -60,6 +60,10 @@
     "releasetag": true
   },
   {
+    "package": "deeptime",
+    "releasetag": true
+  },
+  {
     "package": "demographr",
     "releasetag": true
   },

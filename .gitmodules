@@ -80,6 +80,10 @@
 	path = crew.cluster
 	url = https://github.com/wlandau/crew.cluster
 	branch = 0.4.0
+[submodule "deeptime"]
+	path = deeptime
+	url = https://github.com/willgearty/deeptime
+	branch = *release
 [submodule "demographr"]
 	path = demographr
 	url = https://github.com/humaniverse/demographr
