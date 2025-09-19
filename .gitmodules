@@ -55,6 +55,10 @@
 	path = autometric
 	url = https://github.com/wlandau/autometric
 	branch = 0.1.2
+[submodule "bayesplot"]
+	path = bayesplot
+	url = https://github.com/stan-dev/bayesplot
+	branch = *release
 [submodule "bridgestan"]
 	path = bridgestan
 	url = https://github.com/roualdes/bridgestan
@@ -132,6 +136,10 @@
 	path = loneliness
 	url = https://github.com/humaniverse/loneliness
 	branch = 0.0.1
+[submodule "loo"]
+	path = loo
+	url = https://github.com/stan-dev/loo
+	branch = *release
 [submodule "milRex"]
 	path = milRex
 	url = https://github.com/datapumpernickel/milRex
@@ -165,6 +173,18 @@
 	path = polars0
 	url = https://github.com/rpolars/r-polars0
 	branch = v1.0.0
+[submodule "posterior"]
+	path = posterior
+	url = https://github.com/stan-dev/posterior
+	branch = *release
+[submodule "posteriordb"]
+	path = posteriordb
+	url = https://github.com/stan-dev/posteriordb-r
+	branch = *release
+[submodule "projpred"]
+	path = projpred
+	url = https://github.com/stan-dev/projpred
+	branch = *release
 [submodule "prophet"]
 	path = prophet
 	url = https://github.com/facebook/prophet
@@ -182,10 +202,18 @@
 	path = rlang
 	url = https://github.com/r-lib/rlang
 	branch = v1.1.6
+[submodule "rstanarm"]
+	path = rstanarm
+	url = https://github.com/stan-dev/rstanarm
+	branch = *release
 [submodule "rwasm"]
 	path = rwasm
 	url = https://github.com/r-wasm/rwasm
 	branch = v0.3.0
+[submodule "shinystan"]
+	path = shinystan
+	url = https://github.com/stan-dev/shinystan
+	branch = *release
 [submodule "stantargets"]
 	path = stantargets
 	url = https://github.com/ropensci/stantargets

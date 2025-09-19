@@ -36,6 +36,10 @@
     "releasetag": true
   },
   {
+    "package": "bayesplot",
+    "releasetag": true
+  },
+  {
     "package": "bridgestan",
     "releasetag": true
   },
@@ -116,6 +120,10 @@
     "releasetag": true
   },
   {
+    "package": "loo",
+    "releasetag": true
+  },
+  {
     "package": "milRex",
     "releasetag": true
   },
@@ -148,6 +156,18 @@
     "releasetag": true
   },
   {
+    "package": "posterior",
+    "releasetag": true
+  },
+  {
+    "package": "posteriordb",
+    "releasetag": true
+  },
+  {
+    "package": "projpred",
+    "releasetag": true
+  },
+  {
     "package": "prophet",
     "releasetag": true
   },
@@ -164,6 +184,10 @@
     "releasetag": true
   },
   {
+    "package": "rstanarm",
+    "releasetag": true
+  },
+  {
     "package": "Rvision",
     "releasetag": true
   },
@@ -173,6 +197,10 @@
   },
   {
     "package": "SBC",
+    "releasetag": true
+  },
+  {
+    "package": "shinystan",
     "releasetag": true
   },
   {
