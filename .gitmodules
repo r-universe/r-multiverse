@@ -88,6 +88,10 @@
 	path = deeptime
 	url = https://github.com/willgearty/deeptime
 	branch = v2.2.0
+[submodule "deeptimedata"]
+	path = deeptimedata
+	url = https://github.com/willgearty/deeptimedata
+	branch = *release
 [submodule "demographr"]
 	path = demographr
 	url = https://github.com/humaniverse/demographr
@@ -202,6 +206,10 @@
 	path = rlang
 	url = https://github.com/r-lib/rlang
 	branch = v1.1.6
+[submodule "rredlist"]
+	path = rredlist
+	url = https://github.com/ropensci/rredlist
+	branch = *release
 [submodule "rstanarm"]
 	path = rstanarm
 	url = https://github.com/stan-dev/rstanarm

@@ -68,6 +68,10 @@
     "releasetag": true
   },
   {
+    "package": "deeptimedata",
+    "releasetag": true
+  },
+  {
     "package": "demographr",
     "releasetag": true
   },
@@ -181,6 +185,10 @@
   },
   {
     "package": "rlang",
+    "releasetag": true
+  },
+  {
+    "package": "rredlist",
     "releasetag": true
   },
   {
