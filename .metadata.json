@@ -84,6 +84,10 @@
     "releasetag": true
   },
   {
+    "package": "ggsurveillance",
+    "releasetag": true
+  },
+  {
     "package": "glaredb",
     "releasetag": true
   },

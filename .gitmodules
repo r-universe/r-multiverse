@@ -104,6 +104,10 @@
 	path = geographr
 	url = https://github.com/humaniverse/geographr
 	branch = 1.0.1
+[submodule "ggsurveillance"]
+	path = ggsurveillance
+	url = https://github.com/biostats-dev/ggsurveillance
+	branch = *release
 [submodule "glaredb"]
 	path = glaredb
 	url = https://github.com/eitsupi/r-glaredb
