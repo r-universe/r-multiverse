@@ -225,7 +225,7 @@
 [submodule "saperlipopette"]
 	path = saperlipopette
 	url = https://github.com/ropensci-training/saperlipopette
-	branch = *release
+	branch = v0.1.0
 [submodule "shinystan"]
 	path = shinystan
 	url = https://github.com/stan-dev/shinystan
