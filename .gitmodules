@@ -222,6 +222,10 @@
 	path = rwasm
 	url = https://github.com/r-wasm/rwasm
 	branch = v0.3.0
+[submodule "saperlipopette"]
+	path = saperlipopette
+	url = https://github.com/ropensci-training/saperlipopette
+	branch = *release
 [submodule "shinystan"]
 	path = shinystan
 	url = https://github.com/stan-dev/shinystan

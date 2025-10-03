@@ -208,6 +208,10 @@
     "releasetag": true
   },
   {
+    "package": "saperlipopette",
+    "releasetag": true
+  },
+  {
     "package": "SBC",
     "releasetag": true
   },
