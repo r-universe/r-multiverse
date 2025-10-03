@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/r-multiverse/community
 	branch = HEAD
+[submodule "ExpBites"]
+	path = ExpBites
+	url = https://github.com/Nmoiroux/ExpBites
+	branch = *release
 [submodule "IMD"]
 	path = IMD
 	url = https://github.com/humaniverse/IMD
