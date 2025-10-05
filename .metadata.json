@@ -152,6 +152,10 @@
     "releasetag": true
   },
   {
+    "package": "mutagen",
+    "releasetag": true
+  },
+  {
     "package": "nanoarrow",
     "releasetag": true
   },
@@ -249,6 +253,10 @@
   },
   {
     "package": "tidypolars",
+    "releasetag": true
+  },
+  {
+    "package": "tidytab",
     "releasetag": true
   },
   {

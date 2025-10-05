@@ -168,6 +168,10 @@
 	path = multiverse.internals
 	url = https://github.com/r-multiverse/multiverse.internals
 	branch = 1.1.5
+[submodule "mutagen"]
+	path = mutagen
+	url = https://github.com/gvelasq/mutagen
+	branch = *release
 [submodule "nanoarrow"]
 	path = nanoarrow
 	url = https://github.com/apache/arrow-nanoarrow
@@ -262,6 +266,10 @@
 	path = tidypolars
 	url = https://github.com/etiennebacher/tidypolars
 	branch = v0.14.1
+[submodule "tidytab"]
+	path = tidytab
+	url = https://github.com/gvelasq/tidytab
+	branch = *release
 [submodule "tidytensor"]
 	path = tidytensor
 	url = https://github.com/oneilsh/tidytensor
