@@ -225,7 +225,7 @@
 [submodule "rstanarm"]
 	path = rstanarm
 	url = https://github.com/stan-dev/rstanarm
-	branch = v2.32.1
+	branch = v2.32.2
 [submodule "rwasm"]
 	path = rwasm
 	url = https://github.com/r-wasm/rwasm
