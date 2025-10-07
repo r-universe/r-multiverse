@@ -108,6 +108,10 @@
 	path = geographr
 	url = https://github.com/humaniverse/geographr
 	branch = 1.0.1
+[submodule "geotargets"]
+	path = geotargets
+	url = https://github.com/ropensci/geotargets
+	branch = *release
 [submodule "ggsurveillance"]
 	path = ggsurveillance
 	url = https://github.com/biostats-dev/ggsurveillance
@@ -282,6 +286,10 @@
 	path = unigd
 	url = https://github.com/nx10/unigd
 	branch = v0.1.3
+[submodule "weathercan"]
+	path = weathercan
+	url = https://github.com/ropensci/weathercan
+	branch = *release
 [submodule "webchem"]
 	path = webchem
 	url = https://github.com/ropensci/webchem
