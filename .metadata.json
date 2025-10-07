@@ -192,6 +192,10 @@
     "releasetag": true
   },
   {
+    "package": "riem",
+    "releasetag": true
+  },
+  {
     "package": "rJavaEnv",
     "releasetag": true
   },
