@@ -171,7 +171,7 @@
 [submodule "multiverse.internals"]
 	path = multiverse.internals
 	url = https://github.com/r-multiverse/multiverse.internals
-	branch = 1.1.5
+	branch = 1.1.6
 [submodule "mutagen"]
 	path = mutagen
 	url = https://github.com/gvelasq/mutagen
