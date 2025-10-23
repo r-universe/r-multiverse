@@ -108,10 +108,6 @@
     "releasetag": true
   },
   {
-    "package": "ichimoku",
-    "releasetag": true
-  },
-  {
     "package": "igraph",
     "releasetag": true
   },
@@ -229,6 +225,10 @@
   },
   {
     "package": "SBC",
+    "releasetag": true
+  },
+  {
+    "package": "secretbase",
     "releasetag": true
   },
   {

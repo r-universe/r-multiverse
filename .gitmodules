@@ -128,10 +128,6 @@
 	path = httpgd
 	url = https://github.com/nx10/httpgd
 	branch = v2.0.4
-[submodule "ichimoku"]
-	path = ichimoku
-	url = https://github.com/shikokuchuo/ichimoku
-	branch = v1.5.6
 [submodule "igraph"]
 	path = igraph
 	url = https://github.com/igraph/rigraph
@@ -162,7 +158,7 @@
 	branch = v1.0.1
 [submodule "mirai"]
 	path = mirai
-	url = https://github.com/shikokuchuo/mirai
+	url = https://github.com/r-lib/mirai
 	branch = v2.5.1
 [submodule "multitools"]
 	path = multitools
@@ -183,7 +179,7 @@
 	subdir = r
 [submodule "nanonext"]
 	path = nanonext
-	url = https://github.com/shikokuchuo/nanonext
+	url = https://github.com/r-lib/nanonext
 	branch = v1.7.1
 [submodule "polars"]
 	path = polars
@@ -242,6 +238,10 @@
 	path = saperlipopette
 	url = https://github.com/ropensci-training/saperlipopette
 	branch = v0.1.0
+[submodule "secretbase"]
+	path = secretbase
+	url = https://github.com/shikokuchuo/secretbase
+	branch = *release
 [submodule "shinystan"]
 	path = shinystan
 	url = https://github.com/stan-dev/shinystan
