@@ -282,6 +282,10 @@
 	path = tidytensor
 	url = https://github.com/oneilsh/tidytensor
 	branch = v1.0.0
+[submodule "tidyterra"]
+	path = tidyterra
+	url = https://github.com/dieghernan/tidyterra
+	branch = *release
 [submodule "unigd"]
 	path = unigd
 	url = https://github.com/nx10/unigd

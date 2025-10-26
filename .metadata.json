@@ -272,6 +272,10 @@
     "releasetag": true
   },
   {
+    "package": "tidyterra",
+    "releasetag": true
+  },
+  {
     "package": "unigd",
     "releasetag": true
   },
