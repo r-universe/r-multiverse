@@ -63,6 +63,10 @@
 	path = bayesplot
 	url = https://github.com/stan-dev/bayesplot
 	branch = v1.14.0
+[submodule "biorecap"]
+	path = biorecap
+	url = https://github.com/stephenturner/biorecap
+	branch = *release
 [submodule "bridgestan"]
 	path = bridgestan
 	url = https://github.com/roualdes/bridgestan
@@ -136,6 +140,10 @@
 	path = jagstargets
 	url = https://github.com/ropensci/jagstargets
 	branch = 1.2.3
+[submodule "kgp"]
+	path = kgp
+	url = https://github.com/stephenturner/kgp
+	branch = *release
 [submodule "later"]
 	path = later
 	url = https://github.com/r-lib/later
@@ -210,6 +218,10 @@
 	path = prqlr
 	url = https://github.com/PRQL/prqlc-r
 	branch = v0.10.1
+[submodule "qqman"]
+	path = qqman
+	url = https://github.com/stephenturner/qqman
+	branch = *release
 [submodule "rJavaEnv"]
 	path = rJavaEnv
 	url = https://github.com/e-kotov/rJavaEnv

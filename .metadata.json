@@ -40,6 +40,10 @@
     "releasetag": true
   },
   {
+    "package": "biorecap",
+    "releasetag": true
+  },
+  {
     "package": "bridgestan",
     "releasetag": true
   },
@@ -120,6 +124,10 @@
     "releasetag": true
   },
   {
+    "package": "kgp",
+    "releasetag": true
+  },
+  {
     "package": "later",
     "releasetag": true
   },
@@ -189,6 +197,10 @@
   },
   {
     "package": "prqlr",
+    "releasetag": true
+  },
+  {
+    "package": "qqman",
     "releasetag": true
   },
   {
