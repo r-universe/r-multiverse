@@ -135,7 +135,7 @@
 [submodule "igraph"]
 	path = igraph
 	url = https://github.com/igraph/rigraph
-	branch = v2.2.0
+	branch = v2.2.1
 [submodule "jagstargets"]
 	path = jagstargets
 	url = https://github.com/ropensci/jagstargets
