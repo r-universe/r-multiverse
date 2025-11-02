@@ -14,6 +14,10 @@
 	path = Rvision
 	url = https://github.com/swarm-lab/Rvision
 	branch = v0.8.0
+[submodule "S7"]
+	path = S7
+	url = https://github.com/RConsortium/S7
+	branch = *release
 [submodule "SBC"]
 	path = SBC
 	url = https://github.com/hyunjimoon/SBC
@@ -72,6 +76,10 @@
 	url = https://github.com/roualdes/bridgestan
 	branch = v2.7.0
 	subdir = R
+[submodule "cli"]
+	path = cli
+	url = https://github.com/r-lib/cli
+	branch = *release
 [submodule "cmdstanr"]
 	path = cmdstanr
 	url = https://github.com/stan-dev/cmdstanr
@@ -302,6 +310,10 @@
 	path = unigd
 	url = https://github.com/nx10/unigd
 	branch = v0.1.3
+[submodule "vctrs"]
+	path = vctrs
+	url = https://github.com/r-lib/vctrs
+	branch = *release
 [submodule "weathercan"]
 	path = weathercan
 	url = https://github.com/ropensci/weathercan

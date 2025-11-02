@@ -48,6 +48,10 @@
     "releasetag": true
   },
   {
+    "package": "cli",
+    "releasetag": true
+  },
+  {
     "package": "cmdstanr",
     "releasetag": true
   },
@@ -232,6 +236,10 @@
     "releasetag": true
   },
   {
+    "package": "S7",
+    "releasetag": true
+  },
+  {
     "package": "saperlipopette",
     "releasetag": true
   },
@@ -289,6 +297,10 @@
   },
   {
     "package": "unigd",
+    "releasetag": true
+  },
+  {
+    "package": "vctrs",
     "releasetag": true
   },
   {
