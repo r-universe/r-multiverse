@@ -296,6 +296,10 @@
     "releasetag": true
   },
   {
+    "package": "trelliscope",
+    "releasetag": true
+  },
+  {
     "package": "unigd",
     "releasetag": true
   },
