@@ -187,7 +187,7 @@
 [submodule "mutagen"]
 	path = mutagen
 	url = https://github.com/gvelasq/mutagen
-	branch = v0.2.0
+	branch = v0.3.0
 [submodule "nanoarrow"]
 	path = nanoarrow
 	url = https://github.com/apache/arrow-nanoarrow
