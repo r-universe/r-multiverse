@@ -115,7 +115,7 @@
 [submodule "duckdb"]
 	path = duckdb
 	url = https://github.com/duckdb/duckdb-r
-	branch = v1.4.1
+	branch = v1.4.2
 [submodule "geographr"]
 	path = geographr
 	url = https://github.com/humaniverse/geographr
@@ -297,7 +297,7 @@
 [submodule "tidytab"]
 	path = tidytab
 	url = https://github.com/gvelasq/tidytab
-	branch = v0.0.0.9000
+	branch = v0.1.0
 [submodule "tidytensor"]
 	path = tidytensor
 	url = https://github.com/oneilsh/tidytensor
