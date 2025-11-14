@@ -17,7 +17,7 @@
 [submodule "S7"]
 	path = S7
 	url = https://github.com/RConsortium/S7
-	branch = v0.2.0
+	branch = v0.2.1
 [submodule "SBC"]
 	path = SBC
 	url = https://github.com/hyunjimoon/SBC
