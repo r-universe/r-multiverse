@@ -119,7 +119,7 @@
 [submodule "geoarrow"]
 	path = geoarrow
 	url = https://github.com/geoarrow/geoarrow-r
-	branch = *release
+	branch = v0.4.1
 [submodule "geographr"]
 	path = geographr
 	url = https://github.com/humaniverse/geographr
@@ -220,7 +220,7 @@
 [submodule "prism2R"]
 	path = prism2R
 	url = https://github.com/Biomiha/prism2R
-	branch = *release
+	branch = V0.1
 [submodule "projpred"]
 	path = projpred
 	url = https://github.com/stan-dev/projpred
