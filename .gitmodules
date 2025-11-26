@@ -5,7 +5,7 @@
 [submodule "ExpBites"]
 	path = ExpBites
 	url = https://github.com/Nmoiroux/ExpBites
-	branch = v0.1.2
+	branch = v.0.1.3
 [submodule "IMD"]
 	path = IMD
 	url = https://github.com/humaniverse/IMD
