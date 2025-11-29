@@ -116,6 +116,10 @@
 	path = duckdb
 	url = https://github.com/duckdb/duckdb-r
 	branch = v1.4.2
+[submodule "geoarrow"]
+	path = geoarrow
+	url = https://github.com/geoarrow/geoarrow-r
+	branch = *release
 [submodule "geographr"]
 	path = geographr
 	url = https://github.com/humaniverse/geographr
@@ -213,6 +217,10 @@
 	path = posteriordb
 	url = https://github.com/stan-dev/posteriordb-r
 	branch = v0.3.4
+[submodule "prism2R"]
+	path = prism2R
+	url = https://github.com/Biomiha/prism2R
+	branch = *release
 [submodule "projpred"]
 	path = projpred
 	url = https://github.com/stan-dev/projpred

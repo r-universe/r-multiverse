@@ -92,6 +92,10 @@
     "releasetag": true
   },
   {
+    "package": "geoarrow",
+    "releasetag": true
+  },
+  {
     "package": "geographr",
     "releasetag": true
   },
@@ -189,6 +193,10 @@
   },
   {
     "package": "posteriordb",
+    "releasetag": true
+  },
+  {
+    "package": "prism2R",
     "releasetag": true
   },
   {
