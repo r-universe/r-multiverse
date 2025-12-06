@@ -270,6 +270,11 @@
 	path = secretbase
 	url = https://github.com/shikokuchuo/secretbase
 	branch = v1.0.5
+[submodule "sedonadb"]
+	path = sedonadb
+	url = https://github.com/apache/sedona-db
+	branch = *release
+	subdir = r/sedonadb
 [submodule "shinystan"]
 	path = shinystan
 	url = https://github.com/stan-dev/shinystan

@@ -260,6 +260,10 @@
     "releasetag": true
   },
   {
+    "package": "sedonadb",
+    "releasetag": true
+  },
+  {
     "package": "shinystan",
     "releasetag": true
   },
