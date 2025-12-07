@@ -336,6 +336,10 @@
     "releasetag": true
   },
   {
+    "package": "wk",
+    "releasetag": true
+  },
+  {
     "package": "zstdlite",
     "releasetag": true
   }

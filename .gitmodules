@@ -347,6 +347,10 @@
 	path = wildfires
 	url = https://github.com/humaniverse/wildfires
 	branch = 0.9.0
+[submodule "wk"]
+	path = wk
+	url = https://github.com/paleolimbot/wk
+	branch = *release
 [submodule "zstdlite"]
 	path = zstdlite
 	url = https://github.com/coolbutuseless/zstdlite
