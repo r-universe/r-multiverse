@@ -115,7 +115,7 @@
 [submodule "duckdb"]
 	path = duckdb
 	url = https://github.com/duckdb/duckdb-r
-	branch = v1.4.2
+	branch = v1.4.3
 [submodule "geoarrow"]
 	path = geoarrow
 	url = https://github.com/geoarrow/geoarrow-r
@@ -204,7 +204,7 @@
 [submodule "polars"]
 	path = polars
 	url = https://github.com/pola-rs/r-polars
-	branch = v1.6.0
+	branch = v1.7.0
 [submodule "polars0"]
 	path = polars0
 	url = https://github.com/rpolars/r-polars0
