@@ -66,7 +66,7 @@
 [submodule "bayesplot"]
 	path = bayesplot
 	url = https://github.com/stan-dev/bayesplot
-	branch = v1.14.0
+	branch = v1.15.0
 [submodule "biorecap"]
 	path = biorecap
 	url = https://github.com/stephenturner/biorecap
@@ -278,7 +278,7 @@
 [submodule "shinystan"]
 	path = shinystan
 	url = https://github.com/stan-dev/shinystan
-	branch = v2.6.0
+	branch = v2.7.0
 [submodule "stantargets"]
 	path = stantargets
 	url = https://github.com/ropensci/stantargets
