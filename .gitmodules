@@ -249,7 +249,7 @@
 [submodule "rlang"]
 	path = rlang
 	url = https://github.com/r-lib/rlang
-	branch = v1.1.6
+	branch = v1.1.7
 [submodule "rredlist"]
 	path = rredlist
 	url = https://github.com/ropensci/rredlist
