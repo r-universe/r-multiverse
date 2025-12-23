@@ -171,7 +171,7 @@
 [submodule "loo"]
 	path = loo
 	url = https://github.com/stan-dev/loo
-	branch = v2.8.0
+	branch = v2.9.0
 [submodule "milRex"]
 	path = milRex
 	url = https://github.com/datapumpernickel/milRex
