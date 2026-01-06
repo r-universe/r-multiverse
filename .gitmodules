@@ -25,22 +25,22 @@
 [submodule "adbcbigquery"]
 	path = adbcbigquery
 	url = https://github.com/apache/arrow-adbc
-	branch = apache-arrow-adbc-21
+	branch = apache-arrow-adbc-22
 	subdir = r/adbcbigquery
 [submodule "adbcdrivermanager"]
 	path = adbcdrivermanager
 	url = https://github.com/apache/arrow-adbc
-	branch = apache-arrow-adbc-21
+	branch = apache-arrow-adbc-22
 	subdir = r/adbcdrivermanager
 [submodule "adbcflightsql"]
 	path = adbcflightsql
 	url = https://github.com/apache/arrow-adbc
-	branch = apache-arrow-adbc-21
+	branch = apache-arrow-adbc-22
 	subdir = r/adbcflightsql
 [submodule "adbcsnowflake"]
 	path = adbcsnowflake
 	url = https://github.com/apache/arrow-adbc
-	branch = apache-arrow-adbc-21
+	branch = apache-arrow-adbc-22
 	subdir = r/adbcsnowflake
 [submodule "arrow"]
 	path = arrow
