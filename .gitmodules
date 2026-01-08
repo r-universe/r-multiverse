@@ -269,7 +269,7 @@
 [submodule "secretbase"]
 	path = secretbase
 	url = https://github.com/shikokuchuo/secretbase
-	branch = v1.0.5
+	branch = v1.1.0
 [submodule "sedonadb"]
 	path = sedonadb
 	url = https://github.com/apache/sedona-db
