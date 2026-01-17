@@ -216,7 +216,7 @@
 [submodule "posteriordb"]
 	path = posteriordb
 	url = https://github.com/stan-dev/posteriordb-r
-	branch = v0.3.4
+	branch = v0.3.6
 [submodule "prism2R"]
 	path = prism2R
 	url = https://github.com/Biomiha/prism2R
