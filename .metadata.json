@@ -88,6 +88,10 @@
     "releasetag": true
   },
   {
+    "package": "ecoXCorr",
+    "releasetag": true
+  },
+  {
     "package": "ExpBites",
     "releasetag": true
   },

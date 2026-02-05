@@ -116,6 +116,10 @@
 	path = duckdb
 	url = https://github.com/duckdb/duckdb-r
 	branch = v1.4.4
+[submodule "ecoXCorr"]
+	path = ecoXCorr
+	url = https://github.com/Nmoiroux/ecoXCorr
+	branch = *release
 [submodule "geoarrow"]
 	path = geoarrow
 	url = https://github.com/geoarrow/geoarrow-r
