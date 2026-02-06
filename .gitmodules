@@ -70,7 +70,7 @@
 [submodule "bedrockbio"]
 	path = bedrockbio
 	url = https://github.com/bedrock-bio/bedrock-bio-client
-	branch = *release
+	branch = v1.1.0
 	subdir = r
 [submodule "biorecap"]
 	path = biorecap
