@@ -40,6 +40,10 @@
     "releasetag": true
   },
   {
+    "package": "bedrockbio",
+    "releasetag": true
+  },
+  {
     "package": "biorecap",
     "releasetag": true
   },

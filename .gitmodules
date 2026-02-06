@@ -67,6 +67,11 @@
 	path = bayesplot
 	url = https://github.com/stan-dev/bayesplot
 	branch = v1.15.0
+[submodule "bedrockbio"]
+	path = bedrockbio
+	url = https://github.com/bedrock-bio/bedrock-bio-client
+	branch = *release
+	subdir = r
 [submodule "biorecap"]
 	path = biorecap
 	url = https://github.com/stephenturner/biorecap
