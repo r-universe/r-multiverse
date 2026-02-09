@@ -124,7 +124,7 @@
 [submodule "ecoXCorr"]
 	path = ecoXCorr
 	url = https://github.com/Nmoiroux/ecoXCorr
-	branch = v0.1.1
+	branch = v0.1.2
 [submodule "geoarrow"]
 	path = geoarrow
 	url = https://github.com/geoarrow/geoarrow-r
@@ -204,7 +204,7 @@
 [submodule "nanoarrow"]
 	path = nanoarrow
 	url = https://github.com/apache/arrow-nanoarrow
-	branch = apache-arrow-nanoarrow-0.7.0
+	branch = apache-arrow-nanoarrow-0.8.0
 	subdir = r
 [submodule "nanonext"]
 	path = nanonext
@@ -299,11 +299,11 @@
 [submodule "tarchetypes"]
 	path = tarchetypes
 	url = https://github.com/ropensci/tarchetypes
-	branch = 0.13.2
+	branch = 0.14.0
 [submodule "targets"]
 	path = targets
 	url = https://github.com/ropensci/targets
-	branch = 1.11.4
+	branch = 1.12.0
 [submodule "targetsketch"]
 	path = targetsketch
 	url = https://github.com/wlandau/targetsketch
