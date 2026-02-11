@@ -124,7 +124,7 @@
 [submodule "ecoXCorr"]
 	path = ecoXCorr
 	url = https://github.com/Nmoiroux/ecoXCorr
-	branch = v0.1.5
+	branch = v0.1.6
 [submodule "geoarrow"]
 	path = geoarrow
 	url = https://github.com/geoarrow/geoarrow-r
@@ -213,7 +213,7 @@
 [submodule "polars"]
 	path = polars
 	url = https://github.com/pola-rs/r-polars
-	branch = v1.8.0
+	branch = v1.9.0
 [submodule "polars0"]
 	path = polars0
 	url = https://github.com/rpolars/r-polars0
