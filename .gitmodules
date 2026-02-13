@@ -188,7 +188,7 @@
 [submodule "mirai"]
 	path = mirai
 	url = https://github.com/r-lib/mirai
-	branch = v2.5.3
+	branch = v2.6.0
 [submodule "multitools"]
 	path = multitools
 	url = https://github.com/r-multiverse/multitools
