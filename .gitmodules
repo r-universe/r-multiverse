@@ -168,7 +168,7 @@
 [submodule "later"]
 	path = later
 	url = https://github.com/r-lib/later
-	branch = v1.4.5
+	branch = v1.4.6
 [submodule "litedown"]
 	path = litedown
 	url = https://github.com/yihui/litedown
