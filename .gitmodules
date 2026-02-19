@@ -132,7 +132,7 @@
 [submodule "doctest"]
 	path = doctest
 	url = https://github.com/hughjonesd/doctest
-	branch = *release
+	branch = v0.4.0
 [submodule "duckdb"]
 	path = duckdb
 	url = https://github.com/duckdb/duckdb-r
@@ -176,7 +176,7 @@
 [submodule "huxtable"]
 	path = huxtable
 	url = https://github.com/hughjonesd/huxtable
-	branch = *release
+	branch = v5.8.0
 [submodule "ichimoku"]
 	path = ichimoku
 	url = https://github.com/shikokuchuo/ichimoku
