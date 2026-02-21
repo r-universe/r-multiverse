@@ -124,7 +124,7 @@
 [submodule "ecoXCorr"]
 	path = ecoXCorr
 	url = https://github.com/Nmoiroux/ecoXCorr
-	branch = v0.1.8
+	branch = v.0.1.81
 [submodule "geoarrow"]
 	path = geoarrow
 	url = https://github.com/geoarrow/geoarrow-r
