@@ -152,7 +152,7 @@
 [submodule "httpgd"]
 	path = httpgd
 	url = https://github.com/nx10/httpgd
-	branch = v2.0.4
+	branch = v2.1.0
 [submodule "igraph"]
 	path = igraph
 	url = https://github.com/igraph/rigraph
