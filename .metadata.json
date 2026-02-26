@@ -48,6 +48,10 @@
     "releasetag": true
   },
   {
+    "package": "bootstrapper",
+    "releasetag": true
+  },
+  {
     "package": "bridgestan",
     "releasetag": true
   },
@@ -325,6 +329,10 @@
   },
   {
     "package": "vctrs",
+    "releasetag": true
+  },
+  {
+    "package": "voucher",
     "releasetag": true
   },
   {
