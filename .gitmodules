@@ -79,7 +79,7 @@
 [submodule "bootstrapper"]
 	path = bootstrapper
 	url = https://github.com/VisruthSK/bootstrapper
-	branch = *release
+	branch = v1.0.0
 [submodule "bridgestan"]
 	path = bridgestan
 	url = https://github.com/roualdes/bridgestan
@@ -347,7 +347,7 @@
 [submodule "voucher"]
 	path = voucher
 	url = https://github.com/VisruthSK/voucher
-	branch = *release
+	branch = v1.0.1
 [submodule "weathercan"]
 	path = weathercan
 	url = https://github.com/ropensci/weathercan
