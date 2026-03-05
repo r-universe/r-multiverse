@@ -172,7 +172,7 @@
 [submodule "later"]
 	path = later
 	url = https://github.com/r-lib/later
-	branch = v1.4.7
+	branch = v1.4.8
 [submodule "litedown"]
 	path = litedown
 	url = https://github.com/yihui/litedown
@@ -278,7 +278,7 @@
 [submodule "saperlipopette"]
 	path = saperlipopette
 	url = https://github.com/ropensci-training/saperlipopette
-	branch = v0.1.0
+	branch = v0.1.1
 [submodule "secretbase"]
 	path = secretbase
 	url = https://github.com/shikokuchuo/secretbase
