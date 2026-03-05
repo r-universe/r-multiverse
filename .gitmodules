@@ -286,7 +286,7 @@
 [submodule "sedonadb"]
 	path = sedonadb
 	url = https://github.com/apache/sedona-db
-	branch = apache-sedona-db-0.2.0
+	branch = apache-sedona-db-0.3.0
 	subdir = r/sedonadb
 [submodule "shinystan"]
 	path = shinystan
