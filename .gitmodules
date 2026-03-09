@@ -347,7 +347,7 @@
 [submodule "voucher"]
 	path = voucher
 	url = https://github.com/VisruthSK/voucher
-	branch = v1.0.1
+	branch = v1.0.2
 [submodule "weathercan"]
 	path = weathercan
 	url = https://github.com/ropensci/weathercan
