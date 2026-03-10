@@ -21,7 +21,7 @@
 [submodule "SBC"]
 	path = SBC
 	url = https://github.com/hyunjimoon/SBC
-	branch = v0.3.0
+	branch = v0.5.0
 [submodule "adbcbigquery"]
 	path = adbcbigquery
 	url = https://github.com/apache/arrow-adbc
