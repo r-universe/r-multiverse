@@ -148,7 +148,7 @@
 [submodule "ggtypst"]
 	path = ggtypst
 	url = https://github.com/Yousa-Mirage/ggtypst
-	branch = *release
+	branch = v0.1.0
 [submodule "glaredb"]
 	path = glaredb
 	url = https://github.com/eitsupi/r-glaredb
