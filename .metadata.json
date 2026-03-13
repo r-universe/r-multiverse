@@ -120,6 +120,10 @@
     "releasetag": true
   },
   {
+    "package": "ggtypst",
+    "releasetag": true
+  },
+  {
     "package": "glaredb",
     "releasetag": true
   },
