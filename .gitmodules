@@ -13,7 +13,7 @@
 [submodule "InsectLabelR"]
 	path = InsectLabelR
 	url = https://github.com/Nmoiroux/InsectLabelR
-	branch = *release
+	branch = v1.0.3
 [submodule "Rvision"]
 	path = Rvision
 	url = https://github.com/swarm-lab/Rvision
