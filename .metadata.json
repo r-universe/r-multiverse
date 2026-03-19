@@ -144,6 +144,10 @@
     "releasetag": true
   },
   {
+    "package": "InsectLabelR",
+    "releasetag": true
+  },
+  {
     "package": "jagstargets",
     "releasetag": true
   },

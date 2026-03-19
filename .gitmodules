@@ -10,6 +10,10 @@
 	path = IMD
 	url = https://github.com/humaniverse/IMD
 	branch = v1.2.1
+[submodule "InsectLabelR"]
+	path = InsectLabelR
+	url = https://github.com/Nmoiroux/InsectLabelR
+	branch = *release
 [submodule "Rvision"]
 	path = Rvision
 	url = https://github.com/swarm-lab/Rvision
