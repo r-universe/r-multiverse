@@ -193,6 +193,10 @@
 	path = loo
 	url = https://github.com/stan-dev/loo
 	branch = v2.9.0
+[submodule "mfclim"]
+	path = mfclim
+	url = https://github.com/Nmoiroux/mfclim
+	branch = *release
 [submodule "milRex"]
 	path = milRex
 	url = https://github.com/datapumpernickel/milRex

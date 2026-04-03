@@ -172,6 +172,10 @@
     "releasetag": true
   },
   {
+    "package": "mfclim",
+    "releasetag": true
+  },
+  {
     "package": "milRex",
     "releasetag": true
   },
