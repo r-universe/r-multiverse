@@ -9,7 +9,7 @@
 [submodule "IMD"]
 	path = IMD
 	url = https://github.com/humaniverse/IMD
-	branch = v1.2.1
+	branch = *release
 [submodule "InsectLabelR"]
 	path = InsectLabelR
 	url = https://github.com/Nmoiroux/InsectLabelR
