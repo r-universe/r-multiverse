@@ -92,7 +92,7 @@
 [submodule "cli"]
 	path = cli
 	url = https://github.com/r-lib/cli
-	branch = v3.6.5
+	branch = v3.6.6
 [submodule "cmdstanr"]
 	path = cmdstanr
 	url = https://github.com/stan-dev/cmdstanr
