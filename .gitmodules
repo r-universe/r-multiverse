@@ -229,7 +229,7 @@
 [submodule "polars"]
 	path = polars
 	url = https://github.com/pola-rs/r-polars
-	branch = v1.10.0
+	branch = v1.11.0
 [submodule "polars0"]
 	path = polars0
 	url = https://github.com/rpolars/r-polars0
