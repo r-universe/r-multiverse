@@ -9,7 +9,7 @@
 [submodule "IMD"]
 	path = IMD
 	url = https://github.com/humaniverse/IMD
-	branch = *release
+	branch = v1.2.1
 [submodule "InsectLabelR"]
 	path = InsectLabelR
 	url = https://github.com/Nmoiroux/InsectLabelR
@@ -294,7 +294,7 @@
 [submodule "secretbase"]
 	path = secretbase
 	url = https://github.com/shikokuchuo/secretbase
-	branch = v1.2.1
+	branch = v1.2.2
 [submodule "sedonadb"]
 	path = sedonadb
 	url = https://github.com/apache/sedona-db
