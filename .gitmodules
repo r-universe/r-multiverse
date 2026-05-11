@@ -290,7 +290,7 @@
 [submodule "saperlipopette"]
 	path = saperlipopette
 	url = https://github.com/ropensci-training/saperlipopette
-	branch = v0.1.1
+	branch = v1.0.0
 [submodule "secretbase"]
 	path = secretbase
 	url = https://github.com/shikokuchuo/secretbase
