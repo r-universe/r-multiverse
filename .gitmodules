@@ -196,7 +196,7 @@
 [submodule "mfclim"]
 	path = mfclim
 	url = https://github.com/Nmoiroux/mfclim
-	branch = v0.1.0
+	branch = v0.1.0.1
 [submodule "milRex"]
 	path = milRex
 	url = https://github.com/datapumpernickel/milRex
