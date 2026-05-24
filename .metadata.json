@@ -276,6 +276,10 @@
     "releasetag": true
   },
   {
+    "package": "santoku",
+    "releasetag": true
+  },
+  {
     "package": "saperlipopette",
     "releasetag": true
   },
