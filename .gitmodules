@@ -46,6 +46,10 @@
 	url = https://github.com/apache/arrow-adbc
 	branch = apache-arrow-adbc-23
 	subdir = r/adbcsnowflake
+[submodule "ahocorasick"]
+	path = ahocorasick
+	url = https://github.com/Yousa-Mirage/r-ahocorasick
+	branch = *release
 [submodule "arrow"]
 	path = arrow
 	url = https://github.com/apache/arrow

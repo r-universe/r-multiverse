@@ -16,6 +16,10 @@
     "releasetag": true
   },
   {
+    "package": "ahocorasick",
+    "releasetag": true
+  },
+  {
     "package": "arrow",
     "releasetag": true
   },
