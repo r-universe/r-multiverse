@@ -140,6 +140,10 @@
     "releasetag": true
   },
   {
+    "package": "ichimoku",
+    "releasetag": true
+  },
+  {
     "package": "igraph",
     "releasetag": true
   },
