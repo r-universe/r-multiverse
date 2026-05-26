@@ -96,6 +96,10 @@
     "releasetag": true
   },
   {
+    "package": "doctest",
+    "releasetag": true
+  },
+  {
     "package": "duckdb",
     "releasetag": true
   },
@@ -137,6 +141,10 @@
   },
   {
     "package": "httpgd",
+    "releasetag": true
+  },
+  {
+    "package": "huxtable",
     "releasetag": true
   },
   {

@@ -129,6 +129,10 @@
 	path = demographr
 	url = https://github.com/humaniverse/demographr
 	branch = 0.0.1
+[submodule "doctest"]
+	path = doctest
+	url = https://github.com/hughjonesd/doctest
+	branch = *release
 [submodule "duckdb"]
 	path = duckdb
 	url = https://github.com/duckdb/duckdb-r
@@ -169,6 +173,10 @@
 	path = httpgd
 	url = https://github.com/nx10/httpgd
 	branch = v2.1.4
+[submodule "huxtable"]
+	path = huxtable
+	url = https://github.com/hughjonesd/huxtable
+	branch = *release
 [submodule "ichimoku"]
 	path = ichimoku
 	url = https://github.com/shikokuchuo/ichimoku
