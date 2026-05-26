@@ -14,6 +14,14 @@
 	path = InsectLabelR
 	url = https://github.com/Nmoiroux/InsectLabelR
 	branch = v.1.0.4
+[submodule "Rmlx"]
+	path = Rmlx
+	url = https://github.com/hughjonesd/Rmlx
+	branch = *release
+[submodule "RmlxStats"]
+	path = RmlxStats
+	url = https://github.com/hughjonesd/RmlxStats
+	branch = *release
 [submodule "Rvision"]
 	path = Rvision
 	url = https://github.com/swarm-lab/Rvision
@@ -153,6 +161,10 @@
 	path = geotargets
 	url = https://github.com/ropensci/geotargets
 	branch = v0.3.1
+[submodule "ggmagnify"]
+	path = ggmagnify
+	url = https://github.com/hughjonesd/ggmagnify
+	branch = *release
 [submodule "ggsurveillance"]
 	path = ggsurveillance
 	url = https://github.com/biostats-dev/ggsurveillance
@@ -242,6 +254,10 @@
 	path = nanonext
 	url = https://github.com/r-lib/nanonext
 	branch = v1.9.0
+[submodule "onetime"]
+	path = onetime
+	url = https://github.com/hughjonesd/onetime
+	branch = *release
 [submodule "polars"]
 	path = polars
 	url = https://github.com/pola-rs/r-polars
@@ -283,6 +299,10 @@
 	path = rJavaEnv
 	url = https://github.com/e-kotov/rJavaEnv
 	branch = v0.3.0
+[submodule "rcheology"]
+	path = rcheology
+	url = https://github.com/hughjonesd/rcheology
+	branch = *release
 [submodule "riem"]
 	path = riem
 	url = https://github.com/ropensci/riem
@@ -368,6 +388,10 @@
 	path = trelliscope
 	url = https://github.com/trelliscope/trelliscope
 	branch = v0.1.14
+[submodule "truelies"]
+	path = truelies
+	url = https://github.com/hughjonesd/truelies
+	branch = *release
 [submodule "unigd"]
 	path = unigd
 	url = https://github.com/nx10/unigd

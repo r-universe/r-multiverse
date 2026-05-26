@@ -124,6 +124,10 @@
     "releasetag": true
   },
   {
+    "package": "ggmagnify",
+    "releasetag": true
+  },
+  {
     "package": "ggsurveillance",
     "releasetag": true
   },
@@ -220,6 +224,10 @@
     "releasetag": true
   },
   {
+    "package": "onetime",
+    "releasetag": true
+  },
+  {
     "package": "polars",
     "releasetag": true
   },
@@ -256,6 +264,10 @@
     "releasetag": true
   },
   {
+    "package": "rcheology",
+    "releasetag": true
+  },
+  {
     "package": "riem",
     "releasetag": true
   },
@@ -265,6 +277,14 @@
   },
   {
     "package": "rlang",
+    "releasetag": true
+  },
+  {
+    "package": "Rmlx",
+    "releasetag": true
+  },
+  {
+    "package": "RmlxStats",
     "releasetag": true
   },
   {
@@ -353,6 +373,10 @@
   },
   {
     "package": "trelliscope",
+    "releasetag": true
+  },
+  {
+    "package": "truelies",
     "releasetag": true
   },
   {
