@@ -57,7 +57,7 @@
 [submodule "ahocorasick"]
 	path = ahocorasick
 	url = https://github.com/Yousa-Mirage/r-ahocorasick
-	branch = v0.1.0
+	branch = v0.2.0
 [submodule "arrow"]
 	path = arrow
 	url = https://github.com/apache/arrow
