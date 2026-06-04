@@ -216,6 +216,10 @@
     "releasetag": true
   },
   {
+    "package": "mypaintr",
+    "releasetag": true
+  },
+  {
     "package": "nanoarrow",
     "releasetag": true
   },

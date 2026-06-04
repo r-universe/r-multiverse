@@ -245,6 +245,10 @@
 	path = mutagen
 	url = https://github.com/gvelasq/mutagen
 	branch = v0.5.0
+[submodule "mypaintr"]
+	path = mypaintr
+	url = https://github.com/hughjonesd/mypaintr
+	branch = *release
 [submodule "nanoarrow"]
 	path = nanoarrow
 	url = https://github.com/apache/arrow-nanoarrow
