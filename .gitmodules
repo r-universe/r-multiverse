@@ -152,7 +152,7 @@
 [submodule "geoarrow"]
 	path = geoarrow
 	url = https://github.com/geoarrow/geoarrow-r
-	branch = v0.4.1
+	branch = v0.4.3
 [submodule "geographr"]
 	path = geographr
 	url = https://github.com/humaniverse/geographr
@@ -248,7 +248,7 @@
 [submodule "mypaintr"]
 	path = mypaintr
 	url = https://github.com/hughjonesd/mypaintr
-	branch = *release
+	branch = v0.1.0
 [submodule "nanoarrow"]
 	path = nanoarrow
 	url = https://github.com/apache/arrow-nanoarrow
