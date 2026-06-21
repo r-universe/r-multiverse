@@ -338,7 +338,7 @@
 [submodule "sdplyr"]
 	path = sdplyr
 	url = https://github.com/apache/sedona-db
-	branch = *release
+	branch = apache-sedona-db-0.4.0
 	subdir = r/sdplyr
 [submodule "secretbase"]
 	path = secretbase
@@ -352,7 +352,7 @@
 [submodule "sedonafns"]
 	path = sedonafns
 	url = https://github.com/apache/sedona-db
-	branch = *release
+	branch = apache-sedona-db-0.4.0
 	subdir = r/sedonafns
 [submodule "shinystan"]
 	path = shinystan
