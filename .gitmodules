@@ -95,7 +95,7 @@
 [submodule "bootstrapper"]
 	path = bootstrapper
 	url = https://github.com/VisruthSK/bootstrapper
-	branch = v1.0.0
+	branch = v1.1.0
 [submodule "bridgestan"]
 	path = bridgestan
 	url = https://github.com/roualdes/bridgestan
