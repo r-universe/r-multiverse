@@ -335,6 +335,11 @@
 	path = saperlipopette
 	url = https://github.com/ropensci-training/saperlipopette
 	branch = v1.0.0
+[submodule "sdplyr"]
+	path = sdplyr
+	url = https://github.com/apache/sedona-db
+	branch = *release
+	subdir = r/sdplyr
 [submodule "secretbase"]
 	path = secretbase
 	url = https://github.com/shikokuchuo/secretbase
@@ -344,6 +349,11 @@
 	url = https://github.com/apache/sedona-db
 	branch = apache-sedona-db-0.4.0
 	subdir = r/sedonadb
+[submodule "sedonafns"]
+	path = sedonafns
+	url = https://github.com/apache/sedona-db
+	branch = *release
+	subdir = r/sedonafns
 [submodule "shinystan"]
 	path = shinystan
 	url = https://github.com/stan-dev/shinystan

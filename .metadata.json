@@ -324,11 +324,19 @@
     "releasetag": true
   },
   {
+    "package": "sdplyr",
+    "releasetag": true
+  },
+  {
     "package": "secretbase",
     "releasetag": true
   },
   {
     "package": "sedonadb",
+    "releasetag": true
+  },
+  {
+    "package": "sedonafns",
     "releasetag": true
   },
   {
