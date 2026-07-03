@@ -168,19 +168,19 @@
 [submodule "ggseg"]
 	path = ggseg
 	url = https://github.com/ggsegverse/ggseg
-	branch = *release
+	branch = v2.2.1
 [submodule "ggseg.formats"]
 	path = ggseg.formats
 	url = https://github.com/ggsegverse/ggseg.formats
-	branch = *release
+	branch = v0.0.4
 [submodule "ggseg.meshes"]
 	path = ggseg.meshes
 	url = https://github.com/ggsegverse/ggseg.meshes
-	branch = *release
+	branch = v0.0.1
 [submodule "ggseg3d"]
 	path = ggseg3d
 	url = https://github.com/ggsegverse/ggseg3d
-	branch = *release
+	branch = v2.1.2
 [submodule "ggsurveillance"]
 	path = ggsurveillance
 	url = https://github.com/biostats-dev/ggsurveillance
