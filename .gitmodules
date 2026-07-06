@@ -99,7 +99,7 @@
 [submodule "bridgestan"]
 	path = bridgestan
 	url = https://github.com/roualdes/bridgestan
-	branch = v2.8.0
+	branch = v2.9.0
 	subdir = R
 [submodule "cli"]
 	path = cli
