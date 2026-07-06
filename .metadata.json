@@ -172,6 +172,10 @@
     "releasetag": true
   },
   {
+    "package": "jiebaRS",
+    "releasetag": true
+  },
+  {
     "package": "kgp",
     "releasetag": true
   },

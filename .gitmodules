@@ -201,6 +201,10 @@
 	path = jagstargets
 	url = https://github.com/ropensci/jagstargets
 	branch = 1.2.3
+[submodule "jiebaRS"]
+	path = jiebaRS
+	url = https://github.com/Yousa-Mirage/jiebaRS
+	branch = *release
 [submodule "kgp"]
 	path = kgp
 	url = https://github.com/stephenturner/kgp
