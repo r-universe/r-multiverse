@@ -165,6 +165,22 @@
 	path = ggmagnify
 	url = https://github.com/hughjonesd/ggmagnify
 	branch = v0.4.2
+[submodule "ggseg"]
+	path = ggseg
+	url = https://github.com/ggsegverse/ggseg
+	branch = *release
+[submodule "ggseg.formats"]
+	path = ggseg.formats
+	url = https://github.com/ggsegverse/ggseg.formats
+	branch = *release
+[submodule "ggseg.meshes"]
+	path = ggseg.meshes
+	url = https://github.com/ggsegverse/ggseg.meshes
+	branch = *release
+[submodule "ggseg3d"]
+	path = ggseg3d
+	url = https://github.com/ggsegverse/ggseg3d
+	branch = *release
 [submodule "ggsurveillance"]
 	path = ggsurveillance
 	url = https://github.com/biostats-dev/ggsurveillance
