@@ -148,7 +148,7 @@
 [submodule "duckdb"]
 	path = duckdb
 	url = https://github.com/duckdb/duckdb-r
-	branch = v1.5.4.2
+	branch = v1.5.4.3
 [submodule "ecoXCorr"]
 	path = ecoXCorr
 	url = https://github.com/Nmoiroux/ecoXCorr
