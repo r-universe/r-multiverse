@@ -326,7 +326,7 @@
 [submodule "rcheology"]
 	path = rcheology
 	url = https://github.com/hughjonesd/rcheology
-	branch = v4.6.0.0
+	branch = v4.6.1.0
 [submodule "riem"]
 	path = riem
 	url = https://github.com/ropensci/riem
