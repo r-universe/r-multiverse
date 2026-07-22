@@ -60,6 +60,10 @@
     "releasetag": true
   },
   {
+    "package": "californiaalw",
+    "releasetag": true
+  },
+  {
     "package": "cli",
     "releasetag": true
   },

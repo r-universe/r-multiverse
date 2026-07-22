@@ -101,6 +101,10 @@
 	url = https://github.com/roualdes/bridgestan
 	branch = v2.9.0
 	subdir = R
+[submodule "californiaalw"]
+	path = californiaalw
+	url = https://github.com/asafichaki/californiaalw
+	branch = *release
 [submodule "cli"]
 	path = cli
 	url = https://github.com/r-lib/cli
