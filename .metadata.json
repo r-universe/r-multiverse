@@ -24,6 +24,10 @@
     "releasetag": true
   },
   {
+    "package": "ascribe",
+    "releasetag": true
+  },
+  {
     "package": "asylum",
     "releasetag": true
   },

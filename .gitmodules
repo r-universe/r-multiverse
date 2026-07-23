@@ -63,6 +63,10 @@
 	url = https://github.com/apache/arrow
 	branch = apache-arrow-25.0.0
 	subdir = r
+[submodule "ascribe"]
+	path = ascribe
+	url = https://github.com/VisruthSK/ascribe
+	branch = *release
 [submodule "asylum"]
 	path = asylum
 	url = https://github.com/humaniverse/asylum
