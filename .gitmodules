@@ -248,7 +248,7 @@
 [submodule "loo"]
 	path = loo
 	url = https://github.com/stan-dev/loo
-	branch = v2.10
+	branch = v2.10.1
 [submodule "mfclim"]
 	path = mfclim
 	url = https://github.com/Nmoiroux/mfclim
