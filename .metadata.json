@@ -1,18 +1,10 @@
 [
   {
-    "package": "adbcbigquery",
-    "releasetag": true
-  },
-  {
     "package": "adbcdrivermanager",
     "releasetag": true
   },
   {
     "package": "adbcflightsql",
-    "releasetag": true
-  },
-  {
-    "package": "adbcsnowflake",
     "releasetag": true
   },
   {
