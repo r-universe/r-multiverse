@@ -307,7 +307,7 @@
 [submodule "prophet"]
 	path = prophet
 	url = https://github.com/facebook/prophet
-	branch = v1.3.0
+	branch = v1.4.0
 	subdir = R
 [submodule "prqlr"]
 	path = prqlr
