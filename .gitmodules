@@ -56,7 +56,7 @@
 [submodule "ascribe"]
 	path = ascribe
 	url = https://github.com/VisruthSK/ascribe
-	branch = v0.1.0
+	branch = v0.1.1
 [submodule "asylum"]
 	path = asylum
 	url = https://github.com/humaniverse/asylum
