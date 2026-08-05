@@ -51,7 +51,7 @@
 [submodule "arrow"]
 	path = arrow
 	url = https://github.com/apache/arrow
-	branch = apache-arrow-25.0.0
+	branch = apache-arrow-25.0.1
 	subdir = r
 [submodule "ascribe"]
 	path = ascribe
