@@ -348,7 +348,7 @@
 [submodule "santoku"]
 	path = santoku
 	url = https://github.com/hughjonesd/santoku
-	branch = v1.2.1
+	branch = v2.0.0
 [submodule "saperlipopette"]
 	path = saperlipopette
 	url = https://github.com/ropensci-training/saperlipopette
