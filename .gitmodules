@@ -283,7 +283,7 @@
 [submodule "permittimelines"]
 	path = permittimelines
 	url = https://github.com/asafichaki/permittimelines
-	branch = *release
+	branch = v0.1.1
 [submodule "polars"]
 	path = polars
 	url = https://github.com/pola-rs/r-polars
