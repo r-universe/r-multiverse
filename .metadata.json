@@ -252,6 +252,10 @@
     "releasetag": true
   },
   {
+    "package": "permittimelines",
+    "releasetag": true
+  },
+  {
     "package": "polars",
     "releasetag": true
   },
