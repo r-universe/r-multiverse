@@ -99,6 +99,10 @@
 	path = californiaalw
 	url = https://github.com/asafichaki/californiaalw
 	branch = v0.1.0
+[submodule "cidian"]
+	path = cidian
+	url = https://github.com/Yousa-Mirage/r-cidian
+	branch = *release
 [submodule "cli"]
 	path = cli
 	url = https://github.com/r-lib/cli

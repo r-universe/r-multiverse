@@ -60,6 +60,10 @@
     "releasetag": true
   },
   {
+    "package": "cidian",
+    "releasetag": true
+  },
+  {
     "package": "cli",
     "releasetag": true
   },
