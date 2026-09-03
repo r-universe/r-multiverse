@@ -118,7 +118,7 @@
 [submodule "crew"]
 	path = crew
 	url = https://github.com/wlandau/crew
-	branch = 1.3.2
+	branch = 1.3.3
 [submodule "crew.aws.batch"]
 	path = crew.aws.batch
 	url = https://github.com/wlandau/crew.aws.batch
