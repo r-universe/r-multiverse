@@ -206,7 +206,7 @@
 [submodule "huxtable"]
 	path = huxtable
 	url = https://github.com/hughjonesd/huxtable
-	branch = v5.8.0
+	branch = v6.0.1
 [submodule "ichimoku"]
 	path = ichimoku
 	url = https://github.com/shikokuchuo/ichimoku
