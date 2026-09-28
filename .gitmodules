@@ -146,7 +146,7 @@
 [submodule "duckdb"]
 	path = duckdb
 	url = https://github.com/duckdb/duckdb-r
-	branch = v1.5.5
+	branch = v1.5.6
 [submodule "ecoXCorr"]
 	path = ecoXCorr
 	url = https://github.com/Nmoiroux/ecoXCorr
@@ -311,7 +311,7 @@
 [submodule "projpred"]
 	path = projpred
 	url = https://github.com/stan-dev/projpred
-	branch = v2.10.0
+	branch = V2.11.0
 [submodule "prophet"]
 	path = prophet
 	url = https://github.com/facebook/prophet
@@ -336,7 +336,7 @@
 [submodule "retroglyph"]
 	path = retroglyph
 	url = https://github.com/wlandau/retroglyph
-	branch = *release
+	branch = 0.0.7
 [submodule "riem"]
 	path = riem
 	url = https://github.com/ropensci/riem
