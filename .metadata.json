@@ -300,6 +300,10 @@
     "releasetag": true
   },
   {
+    "package": "retroglyph",
+    "releasetag": true
+  },
+  {
     "package": "riem",
     "releasetag": true
   },
