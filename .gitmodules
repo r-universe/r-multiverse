@@ -336,7 +336,7 @@
 [submodule "retroglyph"]
 	path = retroglyph
 	url = https://github.com/wlandau/retroglyph
-	branch = 0.0.8
+	branch = 0.0.9
 [submodule "riem"]
 	path = riem
 	url = https://github.com/ropensci/riem
