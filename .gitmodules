@@ -332,7 +332,7 @@
 [submodule "rcheology"]
 	path = rcheology
 	url = https://github.com/hughjonesd/rcheology
-	branch = v4.6.1.0
+	branch = v4.6.2.0
 [submodule "retroglyph"]
 	path = retroglyph
 	url = https://github.com/wlandau/retroglyph
