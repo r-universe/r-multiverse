@@ -21,7 +21,7 @@
 [submodule "RmlxStats"]
 	path = RmlxStats
 	url = https://github.com/hughjonesd/RmlxStats
-	branch = v0.4.0
+	branch = v0.4.1
 [submodule "Rvision"]
 	path = Rvision
 	url = https://github.com/swarm-lab/Rvision
