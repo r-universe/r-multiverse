@@ -427,7 +427,7 @@
 [submodule "tidyterra"]
 	path = tidyterra
 	url = https://github.com/dieghernan/tidyterra
-	branch = v1.3.0
+	branch = v1.3.1
 [submodule "trelliscope"]
 	path = trelliscope
 	url = https://github.com/trelliscope/trelliscope
