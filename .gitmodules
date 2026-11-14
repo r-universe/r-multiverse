@@ -320,7 +320,7 @@
 [submodule "prqlr"]
 	path = prqlr
 	url = https://github.com/PRQL/prqlc-r
-	branch = v0.10.1
+	branch = v0.10.2
 [submodule "qqman"]
 	path = qqman
 	url = https://github.com/stephenturner/qqman
