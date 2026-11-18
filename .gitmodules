@@ -388,6 +388,11 @@
 	path = shinystan
 	url = https://github.com/stan-dev/shinystan
 	branch = v2.7.0
+[submodule "stanli"]
+	path = stanli
+	url = https://github.com/seantalts/stanli
+	branch = *release
+	subdir = r
 [submodule "stantargets"]
 	path = stantargets
 	url = https://github.com/ropensci/stantargets

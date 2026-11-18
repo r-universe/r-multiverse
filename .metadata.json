@@ -376,6 +376,10 @@
     "releasetag": true
   },
   {
+    "package": "stanli",
+    "releasetag": true
+  },
+  {
     "package": "stantargets",
     "releasetag": true
   },
