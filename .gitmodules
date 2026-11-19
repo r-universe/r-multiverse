@@ -391,7 +391,7 @@
 [submodule "stanli"]
 	path = stanli
 	url = https://github.com/seantalts/stanli
-	branch = v0.28.1
+	branch = v0.29.0
 	subdir = r
 [submodule "stantargets"]
 	path = stantargets
@@ -404,11 +404,11 @@
 [submodule "tarchetypes"]
 	path = tarchetypes
 	url = https://github.com/ropensci/tarchetypes
-	branch = 0.14.1
+	branch = 0.14.2
 [submodule "targets"]
 	path = targets
 	url = https://github.com/ropensci/targets
-	branch = 1.12.0
+	branch = 1.12.1
 [submodule "targetsketch"]
 	path = targetsketch
 	url = https://github.com/wlandau/targetsketch
