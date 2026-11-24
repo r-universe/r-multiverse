@@ -391,7 +391,7 @@
 [submodule "stanli"]
 	path = stanli
 	url = https://github.com/seantalts/stanli
-	branch = v0.30.1
+	branch = v0.31.0
 	subdir = r
 [submodule "stantargets"]
 	path = stantargets
